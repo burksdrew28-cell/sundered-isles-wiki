@@ -1,0 +1,1 @@
+A heavily fortified stronghold on the northern shore of **[[Lake Taro]]**, directly across the water from [[Aloriea]]. Its watchtowers face both the lake and the northern mountains, though few outsiders know exactly what its garrison is watching for.

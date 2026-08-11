@@ -1,0 +1,1 @@
+Between [[Jinuz]] and [[Lake Taro]] stand the crumbling remains of an ancient complex half-swallowed by the highlands. Travelers occasionally report lights moving among the ruins after sunset, though no campfires are ever found.

@@ -1,0 +1,1 @@
+The enormous freshwater lake at the heart of [[Eladrion]], surrounding the island city of [[Aloriea]]. Its waters are famously deep, cold, and unusually calm, with some fishermen claiming there are places where their lines never reach the bottom.

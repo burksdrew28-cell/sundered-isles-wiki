@@ -1,0 +1,1 @@
+A vast and ancient woodland stretching between [[Barlop]] and [[Thornwick]], filled with towering trees, hidden paths, and stories older than most settlements. Somewhere within its depths is said to stand the legendary **[[Mother Oak]]**.

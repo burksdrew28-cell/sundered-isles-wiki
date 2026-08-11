@@ -1,0 +1,1 @@
+Perched at the edge of the **[[Mansa Platea]]**, [[Fort Le BonBon]] overlooks [[Eldercross]] and the riverlands far below. From its walls, soldiers can supposedly see trouble coming hours before it reaches the delta.

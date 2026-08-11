@@ -1,0 +1,1 @@
+A colossal elevated region dominating much of eastern [[Eladrion]], rising above the surrounding highlands in sheer cliffs and sweeping ridges. Ancient roads, forgotten structures, and isolated valleys can still be found across its enormous expanse.

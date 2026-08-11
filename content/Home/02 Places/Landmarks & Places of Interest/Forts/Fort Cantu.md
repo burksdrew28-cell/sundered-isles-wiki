@@ -1,0 +1,1 @@
+Hidden between steep western mountains and the sea, **[[Fort Cantu]]** is difficult to reach and even harder to approach unnoticed. Old signal towers still burn on stormy nights, even when no ships are expected.
