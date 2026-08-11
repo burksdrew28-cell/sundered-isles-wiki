@@ -12,9 +12,6 @@ tags:
     
 
 ---
-
-# 📅 Calendar of the Sundered Isles
-
 Most of the civilized world follows the **Common Reckoning**, a calendar consisting of twelve months of thirty days each, followed by five special days known as **The Five Between**.
 
 **365 days** make up a year.
