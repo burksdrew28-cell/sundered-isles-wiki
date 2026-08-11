@@ -789,6 +789,40 @@ hr {
 }
 
 
+/* Keep a long table of contents inside the desktop sidebar. The heading stays
+   visible while the list itself can be scrolled, matching the explorer's use. */
+@media all and (min-width: 801px) {
+
+  .sidebar.right {
+
+    min-height:
+      0;
+
+    overflow:
+      hidden;
+  }
+
+
+  .sidebar.right > .toc {
+
+    flex:
+      1 1 0;
+
+    min-height:
+      0;
+
+    overflow-y:
+      auto;
+
+    overscroll-behavior:
+      contain;
+
+    padding-right:
+      0.45rem;
+  }
+}
+
+
 /* =========================================================
    CODE
    ========================================================= */
