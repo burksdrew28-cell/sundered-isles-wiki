@@ -1,5 +1,3 @@
-# {{City Name}}
-
 {{Short 1–2 paragraph description of the city. Keep this player-facing and focused on the atmosphere, appearance, culture, and what the city is known for.}}
 
 ---

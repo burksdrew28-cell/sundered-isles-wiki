@@ -1,6 +1,6 @@
-# {{City Name}}
+Just south of the enormous **[[Refu Forest]]**, [[Barlop]] is one of northern [[Eladrion]]'s most important trading cities. Merchants, caravans, hunters, and travelers regularly pass through its busy markets carrying timber, herbs, furs, crafted goods, rare plants, and strange treasures gathered from the surrounding wilderness.
 
-{{Short 1–2 paragraph description of the city. Keep this player-facing and focused on the atmosphere, appearance, culture, and what the city is known for.}}
+[[Barlop]]'s culture is deeply connected to the [[Refu Forest]] and the legends that surround it. Stories of the ancient **[[Mother Oak]]**, wandering spirits, unusual creatures, and travelers who vanish between the trees are common throughout the city. Most locals will insist these stories are exaggerated, usually right before explaining exactly which trails you should never walk after dark.
 
 ---
 

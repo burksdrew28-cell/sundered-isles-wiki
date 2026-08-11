@@ -1,6 +1,102 @@
-# **The Pearl of [[Ilyara]]**
-[[Seopon]] is the largest city in the southern island continent of [[Ilyara]], built around a magnificent natural harbor where countless ships pass between the eastern and western seas. The city rises from a maze of tropical islands, waterways, bridges, and dense jungle, with enormous stone towers and colorful buildings packed together along the coastline. Its streets are alive from dawn until well after midnight, filled with sailors, merchants, adventurers, diplomats, fishermen, artisans, and travelers from nearly every corner of the Sundered Isles.
+{{Short 1–2 paragraph description of the city. Keep this player-facing and focused on the atmosphere, appearance, culture, and what the city is known for.}}
 
-Unlike the sprawling capitals of other nations, [[Seopon]] is remarkably compact. Space is precious, so the city grows upward rather than outward Multi-story buildings tower above narrow streets, while enormous banyan trees weave through neighborhoods and sometimes grow directly through buildings. Waterways act as roads, with small boats constantly ferrying people and cargo between districts. Lanterns, magical signs, hanging gardens, and colorful awnings illuminate the city at night, creating a brilliant reflection across the harbor.
+---
 
-Seopon's wealth comes from its position at the crossroads of the world. Almost anything can be found here if one knows where to look: exotic spices, Ilyaran fruits, dwarven metalwork, elven silks, desert glass, magical artifacts, rare creatures, and goods from lands most people have never heard of. The city is famous for its strict laws, immaculate public spaces, and fiercely protected neutrality. [[Seopon]] welcomes almost anyone, provided they obey its rules. Beneath that polished surface, however, lies a complicated world of smugglers, pirate crews, merchant houses, secret societies, and ancient things hiding beneath the city's waterways.
+<details> <summary><strong>🛍️ Shops & Merchants</strong></summary>
+
+- [[{{Shop Name}}]]
+    
+- [[{{Shop Name}}]]
+    
+- [[{{Shop Name}}]]
+    
+
+</details>
+
+<details> <summary><strong>🍺 Taverns & Inns</strong></summary>
+
+- [[{{Tavern Name}}]]
+    
+- [[{{Inn Name}}]]
+    
+- [[{{Tavern Name}}]]
+    
+
+</details>
+
+<details> <summary><strong>🏛️ Landmarks & Places of Interest</strong></summary>
+
+- [[{{Landmark Name}}]]
+    
+- [[{{Landmark Name}}]]
+    
+- [[{{Landmark Name}}]]
+    
+
+</details>
+
+<details> <summary><strong>⚔️ Guilds & Organizations</strong></summary>
+
+- [[{{Guild Name}}]]
+    
+- [[{{Organization Name}}]]
+    
+- [[{{Faction Name}}]]
+    
+
+</details>
+
+<details> <summary><strong>👥 Notable People</strong></summary>
+
+- [[{{NPC Name}}]]
+    
+- [[{{NPC Name}}]]
+    
+- [[{{NPC Name}}]]
+    
+
+</details>
+
+<details> <summary><strong>🎭 Entertainment & Activities</strong></summary>
+
+- [[{{Theater / Arena / Attraction}}]]
+    
+- [[{{Activity Location}}]]
+    
+- [[{{Festival / Venue}}]]
+    
+
+</details>
+
+<details> <summary><strong>⛪ Temples & Sacred Places</strong></summary>
+
+- [[{{Temple Name}}]]
+    
+- [[{{Shrine Name}}]]
+    
+- [[{{Sacred Site}}]]
+    
+
+</details>
+
+<details> <summary><strong>🏘️ Districts & Neighborhoods</strong></summary>
+
+- [[{{District Name}}]]
+    
+- [[{{District Name}}]]
+    
+- [[{{District Name}}]]
+    
+
+</details>
+
+<details> <summary><strong>🗺️ Nearby Locations</strong></summary>
+
+- [[{{Nearby Location}}]]
+    
+- [[{{Nearby Location}}]]
+    
+- [[{{Nearby Location}}]]
+    
+
+</details>

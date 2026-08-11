@@ -1,6 +1,6 @@
-# {{City Name}}
+Built directly into the mountains of [[Eladrion]], **[[Sylvaris]]** is a sprawling city of stone halls, towering gateways, underground neighborhoods, roaring furnaces, and enormous workshops carved deep into the rock. Dwarves make up a large portion of the population, but the city's reputation for craftsmanship has attracted smiths, miners, jewelers, merchants, and adventurers from across the Sundered Isles.
 
-{{Short 1–2 paragraph description of the city. Keep this player-facing and focused on the atmosphere, appearance, culture, and what the city is known for.}}
+[[Sylvaris]] is famous for its weapons, armor, metalwork, gemstones, and master craftspeople, while enormous feast halls and taverns keep the city lively long after the forges go quiet. Deep beneath the inhabited districts, however, ancient tunnels stretch farther into the mountain than most residents ever travel. Every few years, miners seem to uncover another forgotten passage, sealed chamber, or doorway that apparently wasn't on anyone's map.
 
 ---
 

@@ -1,6 +1,6 @@
-# {{City Name}}
+High upon [[Eladrion]]'s great plateau stands **[[Nasia]]**, a grand city of stone towers, terraced streets, sweeping bridges, and breathtaking views across the lands below. Powerful winds constantly sweep across the plateau, turning enormous windmills that help provide power and water to the city. [[Nasia]] has become an important center for scholars, artisans, engineers, and wealthy families drawn to its commanding position.
 
-{{Short 1–2 paragraph description of the city. Keep this player-facing and focused on the atmosphere, appearance, culture, and what the city is known for.}}
+Several major roads pass beneath or climb toward the plateau, making [[Nasia]] an important meeting point between northern and southern [[Eladrion]]. The city is especially famous for its architects and engineers, who seem determined to build bridges, towers, and homes in places where gravity has clearly expressed an objection.
 
 ---
 

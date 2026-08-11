@@ -1,6 +1,6 @@
-# {{City Name}}
+Nestled near [[Eladrion]]'s rugged mountain ranges, **[[Jinuz]]** is a small but energetic city filled with miners, climbers, hunters, explorers, and craftspeople. The people here are known for their strong work ethic and adventurous spirit, with expeditions constantly departing into the surrounding peaks in search of ore, gemstones, hidden passes, rare creatures, and forgotten ruins.
 
-{{Short 1–2 paragraph description of the city. Keep this player-facing and focused on the atmosphere, appearance, culture, and what the city is known for.}}
+[[Jinuz]] has a practical, close-knit culture where nearly everyone knows someone who regularly disappears into the mountains for days at a time. Its taverns are filled with weathered maps, expedition stories, climbing equipment, and rumors of strange discoveries high above the snowline. If you need someone willing to climb something that looks impossible, [[Jinuz]] is a good place to start looking.
 
 ---
 

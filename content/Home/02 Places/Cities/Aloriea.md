@@ -1,6 +1,6 @@
-# {{City Name}}
+At the center of [[Eladrion]] lies **[[Aloriea]]**, an ancient elven city built upon an island in the middle of a vast freshwater lake. Its pale stone towers, quiet gardens, and old streets feel almost untouched by time. Despite its impressive size and long history, [[Aloriea]] has a surprisingly small population, made up mostly of elves alongside a modest number of other peoples who have settled within its guarded shores.
 
-{{Short 1–2 paragraph description of the city. Keep this player-facing and focused on the atmosphere, appearance, culture, and what the city is known for.}}
+The lake surrounding [[Aloriea]] is its greatest natural defense, with only a handful of closely watched bridges, ferries, and waterways providing access to the city. [[Aloriea]] maintains one of the strongest military presences in the region, with disciplined soldiers and lake patrols protecting its borders. The city rarely involves itself loudly in outside affairs, but few in [[Eladrion]] would willingly test its defenses.
 
 ---
 

@@ -45,12 +45,11 @@ A year contains:
 
 # 🍂 Autumn
 
-| Month | Days | Holiday |
-|---|---:|---|
-| **Emberwane** | 30 | 🌾 [[Harvesthome]] — 1st |
-| **Goldfall** | 30 | 🪙 [[Merchant's Day]] — 22nd |
-| **Duskmere** | 30 | 🕯️ [[The Remembrance]] — 13th |
-|  |  | 💎 [[Shattering Day]] — 30th |
+| Month         | Days | Holiday                        |
+| ------------- | ---: | ------------------------------ |
+| **Emberwane** |   30 | 🌾 [[Harvesthome]] — 1st       |
+| **Goldfall**  |   30 | 🪙 [[Merchant's Day]] — 22nd   |
+| **Duskmere**  |   30 | 🕯️ [[The Remembrance]] — 13th |
 
 ---
 
