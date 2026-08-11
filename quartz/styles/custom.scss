@@ -1,3 +1,1476 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+
+/* =========================================================
+   THE SUNDERED ISLES
+   PLAYER WIKI MASTER STYLESHEET
+   ========================================================= */
+
+
+/* =========================================================
+   COLOR PALETTE
+   ========================================================= */
+
+:root {
+
+  /* Ocean */
+  --si-ocean-deep: #183c4a;
+  --si-ocean: #28596a;
+  --si-ocean-light: #477b8b;
+
+  /* Parchment */
+  --si-parchment: #e8d8b0;
+  --si-parchment-light: #f3e8c8;
+  --si-parchment-dark: #d7c394;
+
+  /* Gold */
+  --si-gold-dark: #8f6b32;
+  --si-gold: #b18a45;
+  --si-gold-light: #d0ad68;
+
+  /* Ink */
+  --si-ink: #292820;
+  --si-ink-light: #514d40;
+
+  /* Borders */
+  --si-border: rgba(143, 107, 50, 0.45);
+
+  /* Shadows */
+  --si-shadow: rgba(20, 30, 35, 0.18);
+}
+
+
+/* =========================================================
+   GENERAL PAGE
+   ========================================================= */
+
+body {
+  background:
+    linear-gradient(
+      135deg,
+      #eef1eb 0%,
+      #e7ebe5 50%,
+      #eef1eb 100%
+    );
+
+  color: var(--si-ink);
+}
+
+
+/* Main parchment content */
+
+.center {
+  background:
+    linear-gradient(
+      135deg,
+      rgba(243, 232, 200, 0.98),
+      rgba(232, 216, 176, 0.96)
+    );
+
+  border-left:
+    1px solid var(--si-border);
+
+  border-right:
+    1px solid var(--si-border);
+}
+
+
+/* =========================================================
+   TYPOGRAPHY
+   ========================================================= */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+
+  font-family:
+    "Cinzel",
+    Georgia,
+    serif;
+
+  color:
+    var(--si-ocean-deep);
+
+  letter-spacing:
+    0.025em;
+}
+
+
+h1 {
+
+  border-bottom:
+    2px solid var(--si-gold);
+
+  padding-bottom:
+    0.45rem;
+}
+
+
+h2 {
+
+  border-bottom:
+    1px solid var(--si-border);
+
+  padding-bottom:
+    0.3rem;
+}
+
+
+/* =========================================================
+   LINKS
+   ========================================================= */
+
+a,
+a:visited {
+  color:
+    var(--si-ocean);
+}
+
+
+a:hover {
+  color:
+    var(--si-gold-dark);
+
+  text-shadow:
+    0 0 8px rgba(177, 138, 69, 0.18);
+}
+
+
+/* =========================================================
+   SIDEBAR
+   ========================================================= */
+
+.sidebar {
+
+  background:
+    linear-gradient(
+      180deg,
+      #eef1eb,
+      #e4e9e3
+    );
+
+  border-color:
+    var(--si-border);
+}
+
+
+/* =========================================================
+   SUNDERED ISLES SIDEBAR TITLE
+   ========================================================= */
+
+.sidebar .page-title {
+  text-align:
+    center !important;
+
+  padding:
+    1.4rem 0 !important;
+
+  margin:
+    0 !important;
+
+  border-top:
+    1px solid var(--si-border);
+
+  border-bottom:
+    1px solid var(--si-border);
+}
+
+
+.sidebar .page-title a {
+  display:
+    block;
+
+  font-family:
+    "Cinzel",
+    Georgia,
+    serif;
+
+  font-size:
+    1.55rem;
+
+  line-height:
+    1.15;
+
+  letter-spacing:
+    0.06em;
+
+  text-align:
+    center;
+
+  color:
+    var(--si-ocean-deep);
+
+  text-transform:
+    uppercase;
+
+  text-decoration:
+    none;
+}
+
+
+/* =========================================================
+   SEARCH
+   ========================================================= */
+
+.search-button {
+
+  border:
+    1px solid var(--si-border);
+
+  background:
+    rgba(243, 232, 200, 0.5);
+
+  color:
+    var(--si-ocean-deep);
+}
+
+
+.search-button:hover {
+
+  border-color:
+    var(--si-gold);
+
+  background:
+    rgba(243, 232, 200, 0.9);
+}
+
+
+/* =========================================================
+   EXPLORER
+   ========================================================= */
+
+.explorer {
+
+  border-color:
+    var(--si-border);
+}
+
+
+.explorer .folder-button {
+
+  color:
+    var(--si-ocean-deep);
+}
+
+
+.explorer .folder-button:hover {
+
+  color:
+    var(--si-gold-dark);
+}
+
+
+/* Explorer heading */
+
+.explorer button.desktop-explorer h2 {
+
+  font-family:
+    "Cinzel",
+    Georgia,
+    serif;
+
+  color:
+    var(--si-ocean-deep);
+
+  letter-spacing:
+    0.12em;
+
+  text-transform:
+    uppercase;
+}
+
+
+/* Explorer links */
+
+.explorer a {
+
+  color:
+    var(--si-ocean);
+
+  transition:
+    color 0.15s ease,
+    background 0.15s ease;
+}
+
+
+.explorer a:hover {
+
+  color:
+    var(--si-gold-dark);
+
+  background:
+    rgba(177, 138, 69, 0.08);
+}
+
+
+/* =========================================================
+   HOMEPAGE
+   ========================================================= */
+
+
+/* Hide Quartz automatic page title */
+
+body[data-slug="index"]
+.page-header
+.page-title {
+
+  display:
+    none;
+}
+
+
+/* Hide automatic date / reading time */
+
+body[data-slug="index"]
+.content-meta {
+
+  display:
+    none;
+}
+
+
+/* Main homepage title */
+
+body[data-slug="index"]
+article > h1 {
+
+  font-family:
+    "Cinzel",
+    Georgia,
+    serif;
+
+  font-size:
+    3rem;
+
+  text-align:
+    center;
+
+  text-transform:
+    uppercase;
+
+  letter-spacing:
+    0.09em;
+
+  color:
+    var(--si-ocean-deep);
+
+  border:
+    none;
+
+  margin-top:
+    1rem;
+
+  margin-bottom:
+    0.4rem;
+}
+
+
+/* Homepage opening paragraph */
+
+body[data-slug="index"]
+article > p:first-of-type {
+
+  text-align:
+    center;
+
+  font-family:
+    Georgia,
+    serif;
+
+  font-style:
+    italic;
+
+  color:
+    var(--si-ink-light);
+
+  font-size:
+    1.15rem;
+}
+
+
+/* =========================================================
+   HOMEPAGE QUOTE
+   ========================================================= */
+
+body[data-slug="index"]
+blockquote {
+
+  border-left:
+    3px solid var(--si-gold);
+
+  background:
+    rgba(177, 138, 69, 0.07);
+
+  padding:
+    0.9rem 1rem;
+
+  margin:
+    1.5rem 0 2rem;
+
+  color:
+    var(--si-ink);
+}
+
+
+/* =========================================================
+   WORLD MAP
+   ========================================================= */
+
+body[data-slug="index"]
+article img {
+
+  display:
+    block;
+
+  width:
+    100%;
+
+  max-width:
+    1350px;
+
+  margin:
+    2.5rem auto 3.5rem;
+
+  border:
+    3px solid var(--si-gold);
+
+  border-radius:
+    3px;
+
+  box-shadow:
+    0 12px 30px rgba(0, 0, 0, 0.25),
+    0 0 0 6px rgba(177, 138, 69, 0.08);
+}
+
+
+/* =========================================================
+   EXPLORE THE WORLD
+   ========================================================= */
+
+body[data-slug="index"]
+h2 {
+
+  text-align:
+    center;
+
+  font-family:
+    "Cinzel",
+    Georgia,
+    serif;
+
+  font-size:
+    1.7rem;
+
+  letter-spacing:
+    0.16em;
+
+  text-transform:
+    uppercase;
+
+  color:
+    var(--si-ocean-deep);
+
+  border-top:
+    1px solid var(--si-border);
+
+  border-bottom:
+    1px solid var(--si-border);
+
+  padding:
+    1rem 0;
+
+  margin:
+    3rem 0 1.75rem;
+}
+
+
+/* =========================================================
+   HOMEPAGE NAVIGATION CARDS
+   ========================================================= */
+
+.wiki-navigation {
+
+  display:
+    grid !important;
+
+  grid-template-columns:
+    repeat(3, minmax(0, 1fr)) !important;
+
+  gap:
+    1.25rem !important;
+
+  margin:
+    2rem 0 4rem;
+}
+
+
+/* Card */
+
+.wiki-navigation a,
+.wiki-navigation a:visited {
+
+  position:
+    relative;
+
+  display:
+    flex !important;
+
+  flex-direction:
+    column !important;
+
+  box-sizing:
+    border-box;
+
+  height:
+    170px !important;
+
+  min-height:
+    170px !important;
+
+  padding:
+    1.4rem !important;
+
+  overflow:
+    hidden;
+
+  text-decoration:
+    none;
+
+  color:
+    var(--si-ocean-deep);
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(247, 237, 207, 0.98),
+      rgba(225, 207, 158, 0.82)
+    );
+
+  border:
+    1px solid var(--si-gold);
+
+  border-radius:
+    5px;
+
+  box-shadow:
+    inset 0 0 20px rgba(177, 138, 69, 0.08),
+    0 5px 15px rgba(0, 0, 0, 0.08);
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+}
+
+
+/* Card hover */
+
+.wiki-navigation a:hover {
+
+  transform:
+    translateY(-5px);
+
+  color:
+    var(--si-ocean-deep);
+
+  border-color:
+    var(--si-gold-dark);
+
+  box-shadow:
+    inset 0 0 25px rgba(177, 138, 69, 0.12),
+    0 12px 25px rgba(0, 0, 0, 0.16);
+}
+
+
+/* Decorative stars */
+
+.wiki-navigation a::before,
+.wiki-navigation a::after {
+
+  content:
+    "✦";
+
+  position:
+    absolute;
+
+  color:
+    var(--si-gold);
+
+  font-size:
+    0.7rem;
+
+  opacity:
+    0.65;
+}
+
+
+.wiki-navigation a::before {
+
+  top:
+    8px;
+
+  left:
+    10px;
+}
+
+
+.wiki-navigation a::after {
+
+  right:
+    10px;
+
+  bottom:
+    8px;
+}
+
+
+/* =========================================================
+   NAVIGATION CARD CONTENT
+   ========================================================= */
+
+.nav-icon {
+
+  font-size:
+    1.8rem;
+
+  line-height:
+    1;
+
+  margin-bottom:
+    0.7rem;
+}
+
+
+.wiki-navigation .nav-title {
+
+  font-family:
+    "Cinzel",
+    Georgia,
+    serif;
+
+  font-size:
+    1.15rem;
+
+  font-weight:
+    bold;
+
+  color:
+    var(--si-ocean-deep) !important;
+
+  margin-bottom:
+    0.4rem;
+}
+
+
+.wiki-navigation .nav-description {
+
+  font-size:
+    0.85rem;
+
+  line-height:
+    1.4;
+
+  color:
+    var(--si-ink) !important;
+}
+
+
+/* =========================================================
+   GRAPH VIEW
+   ========================================================= */
+
+/*
+   Graph View intentionally remains visible.
+   It acts as a visual "living map" of the wiki.
+*/
+
+.graph {
+
+  border:
+    1px solid var(--si-border);
+
+  border-radius:
+    6px;
+
+  box-shadow:
+    0 4px 15px rgba(0, 0, 0, 0.08);
+}
+
+/* Give the homepage overview and relationship map balanced desktop space. */
+@media all and (min-width: 1200px) {
+  body[data-slug="index"] .page > #quartz-body {
+    grid-template-columns: minmax(15rem, 18vw) minmax(0, 1fr) minmax(22rem, 26vw);
+    column-gap: clamp(0.75rem, 1.5vw, 1.5rem);
+  }
+
+  body[data-slug="index"] .sidebar.right,
+  body[data-slug="index"] .sidebar.right .graph {
+    min-width: 0;
+    width: 100%;
+  }
+
+  body[data-slug="index"] .sidebar.right .graph > .graph-outer {
+    height: clamp(23rem, 46vh, 34rem);
+  }
+}
+
+
+/* Graph heading */
+
+.graph h2,
+.graph h3 {
+
+  font-family:
+    "Cinzel",
+    Georgia,
+    serif;
+
+  color:
+    var(--si-ocean-deep);
+}
+
+
+/* =========================================================
+   HORIZONTAL RULES
+   ========================================================= */
+
+hr {
+
+  border:
+    none;
+
+  border-top:
+    1px solid var(--si-border);
+
+  margin:
+    2.5rem 0;
+}
+
+
+/* =========================================================
+   CALLOUTS
+   ========================================================= */
+
+.callout {
+
+  border:
+    1px solid var(--si-border);
+
+  background:
+    rgba(243, 232, 200, 0.65);
+}
+
+
+/* =========================================================
+   TABLE OF CONTENTS
+   ========================================================= */
+
+.toc {
+
+  border-color:
+    var(--si-border);
+}
+
+
+.toc a {
+
+  color:
+    var(--si-ocean);
+}
+
+
+.toc a:hover {
+
+  color:
+    var(--si-gold-dark);
+}
+
+
+/* =========================================================
+   CODE
+   ========================================================= */
+
+code,
+pre {
+
+  border-color:
+    var(--si-border);
+}
+
+
+/* =========================================================
+   FOOTER
+   ========================================================= */
+
+footer {
+
+  border-top:
+    1px solid var(--si-border);
+
+  color:
+    var(--si-ink-light);
+}
+
+
+footer a {
+
+  color:
+    var(--si-ocean);
+}
+
+
+/* =========================================================
+   DARK MODE
+   ========================================================= */
+
+:root[saved-theme="dark"] {
+
+  --si-ocean-deep:
+    #102a34;
+
+  --si-ocean:
+    #477f91;
+
+  --si-ocean-light:
+    #6fa7b8;
+
+  --si-parchment:
+    #1b292e;
+
+  --si-parchment-light:
+    #243a42;
+
+  --si-parchment-dark:
+    #142127;
+
+  --si-gold-dark:
+    #a98545;
+
+  --si-gold:
+    #c5a15b;
+
+  --si-gold-light:
+    #d8b866;
+
+  --si-ink:
+    #e5e1d3;
+
+  --si-ink-light:
+    #bdc1b9;
+
+  --si-border:
+    rgba(197, 161, 91, 0.4);
+}
+
+
+/* Dark body */
+
+:root[saved-theme="dark"] body {
+
+  background:
+    linear-gradient(
+      135deg,
+      #101b20,
+      #162b33,
+      #101b20
+    );
+
+  color:
+    var(--si-ink);
+}
+
+
+/* Dark center */
+
+:root[saved-theme="dark"] .center {
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(27, 41, 46, 0.98),
+      rgba(20, 33, 39, 0.96)
+    );
+}
+
+
+/* Dark sidebar */
+
+:root[saved-theme="dark"] .sidebar {
+
+  background:
+    linear-gradient(
+      180deg,
+      #101b20,
+      #162a31
+    );
+}
+
+
+/* Dark headings */
+
+:root[saved-theme="dark"]
+h1,
+:root[saved-theme="dark"]
+h2,
+:root[saved-theme="dark"]
+h3,
+:root[saved-theme="dark"]
+h4,
+:root[saved-theme="dark"]
+h5,
+:root[saved-theme="dark"]
+h6 {
+
+  color:
+    var(--si-gold-light);
+}
+
+
+/* Dark sidebar title */
+
+:root[saved-theme="dark"]
+.sidebar .page-title a {
+
+  color:
+    var(--si-gold-light);
+}
+
+
+/* Dark links */
+
+:root[saved-theme="dark"]
+a,
+:root[saved-theme="dark"]
+a:visited {
+
+  color:
+    var(--si-ocean-light);
+}
+
+
+:root[saved-theme="dark"]
+a:hover {
+
+  color:
+    var(--si-gold-light);
+}
+
+
+/* Dark navigation cards */
+
+:root[saved-theme="dark"]
+.wiki-navigation a,
+:root[saved-theme="dark"]
+.wiki-navigation a:visited {
+
+  color:
+    var(--si-ink);
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(36, 58, 66, 0.98),
+      rgba(27, 41, 46, 0.95)
+    );
+
+  border-color:
+    var(--si-gold);
+}
+
+
+:root[saved-theme="dark"]
+.wiki-navigation .nav-title {
+
+  color:
+    var(--si-gold-light) !important;
+}
+
+
+:root[saved-theme="dark"]
+.wiki-navigation .nav-description {
+
+  color:
+    var(--si-ink) !important;
+}
+
+
+/* Dark callouts */
+
+:root[saved-theme="dark"]
+.callout {
+
+  background:
+    rgba(27, 41, 46, 0.8);
+}
+
+
+/* Dark graph */
+
+:root[saved-theme="dark"]
+.graph {
+
+  border-color:
+    var(--si-border);
+
+  background:
+    rgba(16, 42, 52, 0.25);
+}
+
+
+/* =========================================================
+   RESPONSIVE DESIGN
+   ========================================================= */
+
+@media all and (max-width: 1100px) {
+
+  .wiki-navigation {
+
+    grid-template-columns:
+      repeat(2, minmax(0, 1fr)) !important;
+  }
+}
+
+
+@media all and (max-width: 800px) {
+
+  .wiki-navigation {
+
+    grid-template-columns:
+      repeat(2, minmax(0, 1fr)) !important;
+  }
+
+
+  body[data-slug="index"]
+  article > h1 {
+
+    font-size:
+      2.4rem;
+  }
+}
+
+
+@media all and (max-width: 600px) {
+
+  .wiki-navigation {
+
+    grid-template-columns:
+      1fr !important;
+  }
+
+
+  body[data-slug="index"]
+  article > h1 {
+
+    font-size:
+      2rem;
+
+    letter-spacing:
+      0.04em;
+  }
+}
+/* =========================================================
+   SUNDERED ISLES EXPLORER
+   ========================================================= */
+
+
+/* Explorer container */
+
+.explorer {
+
+  margin-top: 1rem;
+
+  padding-bottom: 1rem;
+
+  border-top:
+    1px solid var(--si-border);
+
+  border-bottom:
+    1px solid var(--si-border);
+}
+
+
+/* =========================================================
+   EXPLORER HEADER
+   ========================================================= */
+
+.explorer button.desktop-explorer {
+  display: none;
+}
+
+.explorer button.desktop-explorer h2 {
+
+  font-family:
+    "Cinzel",
+    Georgia,
+    serif !important;
+
+  font-size:
+    clamp(1.05rem, 1.4vw, 1.25rem) !important;
+
+  font-weight:
+    600;
+
+  letter-spacing:
+    clamp(0.07em, 0.6vw, 0.14em);
+
+  white-space:
+    nowrap;
+
+  text-transform:
+    uppercase;
+
+  color:
+    var(--si-ocean-deep) !important;
+
+  padding:
+    0.8rem 0;
+
+  border-bottom:
+    1px solid var(--si-border);
+}
+
+
+/* =========================================================
+   FOLDER TREE
+   ========================================================= */
+
+.explorer .folder-container {
+
+  margin-top:
+    0.6rem;
+}
+
+
+/* Folder rows */
+
+.explorer .folder-button {
+
+  position:
+    relative;
+
+  display:
+    flex;
+
+  align-items:
+    center;
+
+  width:
+    100%;
+
+  padding:
+    0.45rem 0.55rem;
+
+  border-radius:
+    3px;
+
+  color:
+    var(--si-ocean-deep) !important;
+
+  font-family:
+    "Cinzel",
+    Georgia,
+    serif;
+
+  font-size:
+    0.95rem;
+
+  font-weight:
+    600;
+
+  transition:
+    background 0.15s ease,
+    color 0.15s ease,
+    padding-left 0.15s ease;
+}
+
+
+/* Folder hover */
+
+.explorer .folder-button:hover {
+
+  background:
+    rgba(177, 138, 69, 0.10);
+
+  color:
+    var(--si-gold-dark) !important;
+
+  padding-left:
+    0.8rem;
+}
+
+
+/* =========================================================
+   FOLDER ARROWS
+   ========================================================= */
+
+.explorer .folder-button svg {
+
+  color:
+    var(--si-gold-dark);
+
+  width:
+    0.85rem;
+
+  height:
+    0.85rem;
+}
+
+
+/* =========================================================
+   FILE LINKS
+   ========================================================= */
+
+.explorer .explorer-link {
+
+  display:
+    block;
+
+  padding:
+    0.3rem 0.55rem 0.3rem 1.7rem;
+
+  border-left:
+    1px solid rgba(177, 138, 69, 0.25);
+
+  color:
+    var(--si-ink-light) !important;
+
+  font-family:
+    "Source Sans Pro",
+    sans-serif;
+
+  font-size:
+    0.9rem;
+
+  text-decoration:
+    none;
+
+  transition:
+    background 0.15s ease,
+    color 0.15s ease,
+    padding-left 0.15s ease;
+}
+
+
+/* File hover */
+
+.explorer .explorer-link:hover {
+
+  color:
+    var(--si-ocean-deep) !important;
+
+  background:
+    rgba(177, 138, 69, 0.08);
+
+  padding-left:
+    1.95rem;
+}
+
+
+/* =========================================================
+   ACTIVE PAGE
+   ========================================================= */
+
+.explorer .explorer-link.active {
+
+  color:
+    var(--si-ocean-deep) !important;
+
+  font-weight:
+    600;
+
+  background:
+    rgba(177, 138, 69, 0.14);
+
+  border-left:
+    3px solid var(--si-gold-dark);
+}
+
+
+/* =========================================================
+   FOLDER DEPTH
+   ========================================================= */
+
+/* Level 1 */
+
+.explorer .folder-outer {
+
+  margin-left:
+    0.15rem;
+}
+
+
+/* Level 2 */
+
+.explorer .folder-outer .folder-outer {
+
+  margin-left:
+    0.55rem;
+}
+
+
+/* Level 3 */
+
+.explorer .folder-outer .folder-outer .folder-outer {
+
+  margin-left:
+    0.45rem;
+}
+
+
+/* =========================================================
+   DECORATIVE WORLD-BUILDING TOUCH
+   ========================================================= */
+
+.explorer .folder-container::before {
+
+  content:
+    "✦";
+
+  display:
+    block;
+
+  color:
+    var(--si-gold);
+
+  font-size:
+    0.65rem;
+
+  margin:
+    0.4rem 0 0.2rem 0.25rem;
+
+  opacity:
+    0.65;
+}
+
+
+/* =========================================================
+   HOME LINK
+   ========================================================= */
+
+.explorer .explorer-link[href$="index/"] {
+
+  font-family:
+    "Cinzel",
+    Georgia,
+    serif;
+
+  font-weight:
+    600;
+
+  color:
+    var(--si-ocean-deep) !important;
+
+  background:
+    rgba(177, 138, 69, 0.06);
+}
+
+
+.explorer .explorer-link[href$="index/"]:hover {
+
+  background:
+    rgba(177, 138, 69, 0.14);
+
+  color:
+    var(--si-gold-dark) !important;
+}
+
+
+/* =========================================================
+   DARK MODE
+   ========================================================= */
+
+:root[saved-theme="dark"]
+.explorer button.desktop-explorer h2 {
+
+  color:
+    var(--si-gold-light) !important;
+}
+
+
+:root[saved-theme="dark"]
+.explorer .folder-button {
+
+  color:
+    var(--si-gold-light) !important;
+}
+
+
+:root[saved-theme="dark"]
+.explorer .folder-button:hover {
+
+  color:
+    #e2c77f !important;
+
+  background:
+    rgba(197, 161, 91, 0.10);
+}
+
+
+:root[saved-theme="dark"]
+.explorer .explorer-link {
+
+  color:
+    var(--si-ink-light) !important;
+
+  border-left-color:
+    rgba(197, 161, 91, 0.20);
+}
+
+
+:root[saved-theme="dark"]
+.explorer .explorer-link:hover {
+
+  color:
+    var(--si-gold-light) !important;
+
+  background:
+    rgba(197, 161, 91, 0.08);
+}
+
+
+:root[saved-theme="dark"]
+.explorer .explorer-link.active {
+
+  color:
+    var(--si-gold-light) !important;
+
+  background:
+    rgba(197, 161, 91, 0.12);
+
+  border-left-color:
+    var(--si-gold);
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media all and (max-width: 800px) {
+
+  .explorer button.desktop-explorer h2 {
+
+    font-size:
+      1.05rem !important;
+
+    letter-spacing:
+      0.12em;
+  }
+
+
+  .explorer .folder-button {
+
+    font-size:
+      0.9rem;
+  }
+
+
+  .explorer .explorer-link {
+
+    font-size:
+      0.85rem;
+  }
+}
