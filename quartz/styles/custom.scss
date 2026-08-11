@@ -839,6 +839,15 @@ pre {
    FOOTER
    ========================================================= */
 
+/* Folder listings are navigational indexes, so keep them title-focused. */
+.page-listing .section > .meta {
+  display: none;
+}
+
+.page-listing li.section-li > .section {
+  grid-template-columns: minmax(0, 3fr) minmax(0, 1fr);
+}
+
 footer {
 
   border-top:
