@@ -94,6 +94,15 @@ export default (() => {
         <meta name="generator" content="Quartz" />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              // Keep the Explorer focused on the current page's folder path.
+              localStorage.removeItem("fileTree")
+              document.addEventListener("prenav", () => localStorage.removeItem("fileTree"))
+            `,
+          }}
+        />
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}

@@ -163,7 +163,7 @@ plugins:
     options:
     title: Explorer
     folderClickBehavior: collapse
-    folderDefaultState: open
+    folderDefaultState: collapsed
     useSavedState: false
   - source: "@quartz-community/graph"
     enabled: true
@@ -189,7 +189,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: "@quartz-community/content-meta"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
