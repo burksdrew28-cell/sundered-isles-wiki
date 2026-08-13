@@ -110,7 +110,9 @@ export default (() => {
                 if (window.__sunderedIslesMapViewer) return
                 window.__sunderedIslesMapViewer = true
 
-                const mapSelector = 'body[data-slug="index"] article img[src*="TheSunderedIslesMap"]'
+                // Quartz normalizes attachment filenames during its build, so the homepage
+                // map is identified by its stable content position rather than its source URL.
+                const mapSelector = 'body[data-slug="index"] article img'
                 let viewer
 
                 const closeViewer = () => {
