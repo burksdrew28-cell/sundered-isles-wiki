@@ -103,6 +103,112 @@ export default (() => {
             `,
           }}
         />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              (() => {
+                if (window.__sunderedIslesMapViewer) return
+                window.__sunderedIslesMapViewer = true
+
+                const mapSelector = 'body[data-slug="index"] article img[src*="TheSunderedIslesMap"]'
+                let viewer
+
+                const closeViewer = () => {
+                  if (!viewer) return
+                  viewer.remove()
+                  viewer = undefined
+                  document.body.style.overflow = ""
+                }
+
+                const openViewer = (source) => {
+                  closeViewer()
+                  let scale = 1
+                  let x = 0
+                  let y = 0
+                  let pointerId
+                  let startX = 0
+                  let startY = 0
+
+                  viewer = document.createElement("div")
+                  viewer.className = "si-map-viewer"
+                  viewer.setAttribute("role", "dialog")
+                  viewer.setAttribute("aria-modal", "true")
+                  viewer.setAttribute("aria-label", "Map viewer")
+                  viewer.innerHTML = \
+                    '<div class="si-map-viewer__canvas"><img class="si-map-viewer__image" alt="" /></div>' +
+                    '<div class="si-map-viewer__controls">' +
+                    '<button type="button" data-map-action="zoom-out" aria-label="Zoom out">−</button>' +
+                    '<button type="button" data-map-action="reset" aria-label="Reset map view">Reset</button>' +
+                    '<button type="button" data-map-action="zoom-in" aria-label="Zoom in">+</button>' +
+                    '<button type="button" data-map-action="close" aria-label="Close map viewer">×</button>' +
+                    '</div>'
+
+                  const canvas = viewer.querySelector(".si-map-viewer__canvas")
+                  const image = viewer.querySelector(".si-map-viewer__image")
+                  image.src = source.currentSrc || source.src
+                  image.alt = source.alt || "Map of the Sundered Isles"
+
+                  const render = () => {
+                    image.style.transform = \`translate(\${x}px, \${y}px) scale(\${scale})\`
+                  }
+                  const zoom = (amount) => {
+                    scale = Math.min(4, Math.max(1, scale + amount))
+                    if (scale === 1) { x = 0; y = 0 }
+                    render()
+                  }
+
+                  canvas.addEventListener("wheel", (event) => {
+                    event.preventDefault()
+                    zoom(event.deltaY < 0 ? 0.2 : -0.2)
+                  }, { passive: false })
+                  canvas.addEventListener("pointerdown", (event) => {
+                    if (scale === 1) return
+                    pointerId = event.pointerId
+                    startX = event.clientX - x
+                    startY = event.clientY - y
+                    canvas.setPointerCapture(pointerId)
+                    canvas.classList.add("is-panning")
+                  })
+                  canvas.addEventListener("pointermove", (event) => {
+                    if (event.pointerId !== pointerId) return
+                    x = event.clientX - startX
+                    y = event.clientY - startY
+                    render()
+                  })
+                  const stopPanning = (event) => {
+                    if (event.pointerId !== pointerId) return
+                    pointerId = undefined
+                    canvas.classList.remove("is-panning")
+                  }
+                  canvas.addEventListener("pointerup", stopPanning)
+                  canvas.addEventListener("pointercancel", stopPanning)
+                  viewer.addEventListener("click", (event) => {
+                    const action = event.target.closest("[data-map-action]")?.dataset.mapAction
+                    if (action === "zoom-in") zoom(0.2)
+                    if (action === "zoom-out") zoom(-0.2)
+                    if (action === "reset") { scale = 1; x = 0; y = 0; render() }
+                    if (action === "close" || event.target === viewer) closeViewer()
+                  })
+
+                  document.body.append(viewer)
+                  document.body.style.overflow = "hidden"
+                  render()
+                }
+
+                document.addEventListener("click", (event) => {
+                  const map = event.target.closest(mapSelector)
+                  if (!map) return
+                  event.preventDefault()
+                  openViewer(map)
+                })
+                document.addEventListener("keydown", (event) => {
+                  if (event.key === "Escape") closeViewer()
+                })
+                document.addEventListener("prenav", closeViewer)
+              })()
+            `,
+          }}
+        />
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
