@@ -1,0 +1,1 @@
+High among the foothills near the source of the [[Provon River]] lies **[[Loch Provon]]**, a broad, cold lake surrounded by pine forests and steep mountain slopes. Its waters are unusually clear, and on calm days the reflection of the surrounding peaks makes the lake appear almost impossibly deep.

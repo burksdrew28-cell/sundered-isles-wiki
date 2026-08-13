@@ -1,0 +1,1 @@
+Between [[Whitebridge]] and [[Indo]] lie the scattered remains of **Kanfar**, an old settlement now half-consumed by farmland and wild grass. Farmers occasionally uncover stone walls, buried rooms, and strange objects while plowing nearby fields, leading to the running joke that Kanfar is slowly trying to rebuild itself from underground.

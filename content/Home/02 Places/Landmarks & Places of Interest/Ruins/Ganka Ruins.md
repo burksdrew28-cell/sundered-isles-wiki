@@ -1,0 +1,1 @@
+Hidden among the hills northeast of [[Solcrest]], the **[[Ganka Ruins]]** are all that remain of the settlement that stood here before the capital was founded in its current location. Broken foundations, collapsed roads, and weathered stone markers still cover the hillsides, though nobody seems entirely certain why the original settlement was abandoned.

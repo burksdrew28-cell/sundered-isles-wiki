@@ -1,0 +1,1 @@
+**[[The Sun Coast]]** of [[Astra Veyra]] enjoys a warmer, slightly tropical climate compared with the continent’s interior. Rocky coves give way to sandy beaches, bright vegetation, warm currents, and sheltered bays, creating an important corridor for ships traveling between [[Astra Veyra]] and [[Ilyara]].

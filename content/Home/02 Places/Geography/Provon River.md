@@ -1,0 +1,1 @@
+The [[**Provon River**]] begins in the mountains near [[Valethiel]] before winding across [[Astra Veyra]] and eventually splitting around [[Solcrest]]. Its waters support farms, settlements, transportation, and trade throughout much of the continent, making it one of [[Astra Veyra]]’s most important natural lifelines.
