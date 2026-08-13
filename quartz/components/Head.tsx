@@ -195,12 +195,30 @@ export default (() => {
                   render()
                 }
 
-                document.addEventListener("click", (event) => {
-                  const map = event.target.closest(mapSelector)
-                  if (!map) return
-                  event.preventDefault()
-                  openViewer(map)
-                })
+                const wireMap = () => {
+                  document.querySelectorAll(mapSelector).forEach((map) => {
+                    if (map.dataset.mapViewerReady === "true") return
+                    map.dataset.mapViewerReady = "true"
+                    map.setAttribute("role", "button")
+                    map.setAttribute("tabindex", "0")
+                    map.setAttribute("aria-label", "Open interactive map viewer")
+                    map.addEventListener("click", (event) => {
+                      event.preventDefault()
+                      event.stopPropagation()
+                      openViewer(map)
+                    })
+                    map.addEventListener("keydown", (event) => {
+                      if (event.key === "Enter" || event.key === " ") {
+                        event.preventDefault()
+                        openViewer(map)
+                      }
+                    })
+                  })
+                }
+
+                document.addEventListener("DOMContentLoaded", wireMap)
+                document.addEventListener("nav", wireMap)
+                document.addEventListener("render", wireMap)
                 document.addEventListener("keydown", (event) => {
                   if (event.key === "Escape") closeViewer()
                 })
