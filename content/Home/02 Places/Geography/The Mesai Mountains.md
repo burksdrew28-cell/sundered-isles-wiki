@@ -1,0 +1,1 @@
+**[[The Mesai Mountains]]** form the great northern spine of [[Astra Veyra]], a sprawling range of snow-covered peaks, pine valleys, deep passes, and isolated highlands. The range feeds several rivers and lakes, while old trails and forgotten roads still wind through places where few modern travelers have reason to go.
