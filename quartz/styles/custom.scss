@@ -1345,10 +1345,19 @@ a:hover {
     normal;
 
   overflow-wrap:
-    anywhere;
+    break-word;
+
+  word-break:
+    normal;
 
   text-align:
     left;
+
+  font-size:
+    0.84rem;
+
+  line-height:
+    1.35;
 
   padding:
     0.45rem 0.55rem;
@@ -1385,7 +1394,10 @@ a:hover {
     normal;
 
   overflow-wrap:
-    anywhere;
+    break-word;
+
+  word-break:
+    normal;
 }
 
 
@@ -1400,7 +1412,7 @@ a:hover {
     var(--si-gold-dark) !important;
 
   padding-left:
-    0.8rem;
+    0.55rem;
 }
 
 
@@ -1450,7 +1462,10 @@ a:hover {
     none;
 
   overflow-wrap:
-    anywhere;
+    break-word;
+
+  word-break:
+    normal;
 
   transition:
     background 0.15s ease,
@@ -1503,7 +1518,7 @@ a:hover {
 .explorer .folder-outer {
 
   margin-left:
-    0.15rem;
+    0;
 }
 
 
@@ -1512,7 +1527,7 @@ a:hover {
 .explorer .folder-outer .folder-outer {
 
   margin-left:
-    0.55rem;
+    0;
 }
 
 
@@ -1521,7 +1536,17 @@ a:hover {
 .explorer .folder-outer .folder-outer .folder-outer {
 
   margin-left:
-    0.45rem;
+    0;
+}
+
+/* Keep deeper levels legible without consuming the whole sidebar width. */
+.explorer-content .folder-outer > ul {
+
+  margin-left:
+    0.25rem;
+
+  padding-left:
+    0.5rem;
 }
 
 
