@@ -156,6 +156,14 @@ a:hover {
     var(--si-border);
 }
 
+/* Let the Explorer use the sidebar's width instead of sacrificing it to chrome. */
+@media all and (min-width: 801px) {
+  .page > #quartz-body .sidebar.left {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
 
 /* =========================================================
    SUNDERED ISLES SIDEBAR TITLE
@@ -1354,13 +1362,13 @@ a:hover {
     left;
 
   font-size:
-    0.84rem;
+    0.9rem;
 
   line-height:
     1.35;
 
   padding:
-    0.45rem 0.55rem;
+    0.45rem 0.35rem;
 
   border-radius:
     3px;
@@ -1374,7 +1382,7 @@ a:hover {
     serif;
 
   font-size:
-    0.95rem;
+    0.9rem;
 
   font-weight:
     600;
@@ -1386,6 +1394,12 @@ a:hover {
 }
 
 .explorer .folder-button .folder-title {
+
+  font-size:
+    inherit;
+
+  line-height:
+    inherit;
 
   min-width:
     0;
