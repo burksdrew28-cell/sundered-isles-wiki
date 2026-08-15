@@ -12,6 +12,7 @@ configuration:
         - private
         - templates
         - .obsidian
+        - "**/DM/**"
     theme:
         fontOrigin: googleFonts
         cdnCaching: true
