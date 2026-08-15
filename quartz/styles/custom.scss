@@ -1301,6 +1301,21 @@ a:hover {
 
   margin-top:
     0.6rem;
+
+  min-width:
+    0;
+
+  align-items:
+    flex-start;
+}
+
+.explorer .folder-container > div {
+
+  flex:
+    1 1 0;
+
+  min-width:
+    0;
 }
 
 
@@ -1319,6 +1334,21 @@ a:hover {
 
   width:
     100%;
+
+  min-width:
+    0;
+
+  box-sizing:
+    border-box;
+
+  white-space:
+    normal;
+
+  overflow-wrap:
+    anywhere;
+
+  text-align:
+    left;
 
   padding:
     0.45rem 0.55rem;
@@ -1344,6 +1374,18 @@ a:hover {
     background 0.15s ease,
     color 0.15s ease,
     padding-left 0.15s ease;
+}
+
+.explorer .folder-button .folder-title {
+
+  min-width:
+    0;
+
+  white-space:
+    normal;
+
+  overflow-wrap:
+    anywhere;
 }
 
 
@@ -1406,6 +1448,9 @@ a:hover {
 
   text-decoration:
     none;
+
+  overflow-wrap:
+    anywhere;
 
   transition:
     background 0.15s ease,
