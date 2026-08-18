@@ -13,7 +13,7 @@ The launcher copies your saved vault into this project's real `content` folder i
 Install the community **Shell commands** plugin in Obsidian, then add a command that runs:
 
 ```text
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File "C:\Users\carle\OneDrive\Desktop\Sundered Isles Wiki\quartz\publish-wiki.ps1"
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "C:\Users\carle\OneDrive\Desktop\Winki\quartz\publish-wiki.ps1"
 ```
 
 Assign that command a ribbon icon or hotkey. It will do the same publish action without leaving Obsidian.
