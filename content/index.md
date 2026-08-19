@@ -13,40 +13,34 @@ title: The Sundered Isles
 
 <div class="wiki-navigation">
 
-<a href="/Home/01%20World/World%20Overview/The%20Sundered%20Isles">
+<a href="/home/01-world">
 <span class="nav-icon">🌎</span>
 <span class="nav-title">The World</span>
-<span class="nav-description">Learn about the lands, seas, and peoples of the Sundered Isles.</span>
+<span class="nav-description">Explore the lands, seas, regions, and history of the Sundered Isles.</span>
 </a>
 
-<a href="/Home/02%20Places/Cities/Solcrest">
+<a href="/home/02-places">
 <span class="nav-icon">🏛️</span>
 <span class="nav-title">Places</span>
-<span class="nav-description">Discover cities, regions, ruins, and forgotten places.</span>
+<span class="nav-description">Discover cities, regions, ruins, and other notable places.</span>
 </a>
 
-<a href="/Home/02%20Places/Cities/Seopon">
-<span class="nav-icon">🌴</span>
-<span class="nav-title">Ilyara</span>
-<span class="nav-description">Explore the tropical southern islands and their cultures.</span>
-</a>
-
-<a href="#">
+<a href="/home/03-people">
 <span class="nav-icon">👥</span>
 <span class="nav-title">People</span>
-<span class="nav-description">Meet the peoples and characters who shape the world.</span>
+<span class="nav-description">Meet the people, leaders, and characters who shape the Sundered Isles.</span>
 </a>
 
-<a href="#">
-<span class="nav-icon">⚔️</span>
-<span class="nav-title">Factions</span>
-<span class="nav-description">Guilds, kingdoms, organizations, and powers.</span>
+<a href="/home/11-lore">
+<span class="nav-icon">📜</span>
+<span class="nav-title">Lore</span>
+<span class="nav-description">Uncover ancient history, legends, wars, and the secrets of the Isles.</span>
 </a>
 
-<a href="#">
-<span class="nav-icon">✨</span>
-<span class="nav-title">Magic</span>
-<span class="nav-description">Learn about magic, artifacts, and the forces beyond it.</span>
+<a href="/home/10-maps">
+<span class="nav-icon">🗺️</span>
+<span class="nav-title">Maps</span>
+<span class="nav-description">View maps of the Sundered Isles and chart the world beyond.</span>
 </a>
 
 </div>
