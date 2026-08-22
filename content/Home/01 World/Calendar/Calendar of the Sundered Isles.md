@@ -25,21 +25,21 @@ A year contains:
 
 # 🌱 Spring
 
-| Month | Days | Holiday |
-|---|---:|---|
-| **Dawnrise** | 30 | |
-| **Greengale** | 30 | 🌿 [[Greenwake]] — 12th |
-| **Bloomtide** | 30 | 🌸 [[Festival of Blossoms]] — 20th |
+| Month         | Days | Holiday                            |
+| ------------- | ---: | ---------------------------------- |
+| **Dawnrise**  |   30 |                                    |
+| **Greengale** |   30 | [[🌿 Greenwake]] — 12th            |
+| **Bloomtide** |   30 | [[🌸 Festival of Blossoms]] — 20th |
 
 ---
 
 # ☀️ Summer
 
-| Month | Days | Holiday |
-|---|---:|---|
-| **Suncrest** | 30 | 👑 [[Day of Crowns]] — 15th |
-| **Highsun** | 30 | ☀️ [[The Longest Day]] — 30th |
-| **Stormcall** | 30 | 🌊 [[Storm's Offering]] — 18th |
+| Month         | Days | Holiday                        |
+| ------------- | ---: | ------------------------------ |
+| **Suncrest**  |   30 | [[👑 Day of Crowns]] — 15th    |
+| **Highsun**   |   30 | [[☀️ The Longest Day]] — 30th  |
+| **Stormcall** |   30 | [[🌊 Storm's Offering]] — 18th |
 
 ---
 
@@ -47,19 +47,19 @@ A year contains:
 
 | Month         | Days | Holiday                        |
 | ------------- | ---: | ------------------------------ |
-| **Emberwane** |   30 | 🌾 [[Harvesthome]] — 1st       |
-| **Goldfall**  |   30 | 🪙 [[Merchant's Day]] — 22nd   |
-| **Duskmere**  |   30 | 🕯️ [[The Remembrance]] — 13th |
+| **Emberwane** |   30 | [[🌾 Harvesthome]] — 1st       |
+| **Goldfall**  |   30 | [[🪙 Merchant's Day]] — 22nd   |
+| **Duskmere**  |   30 | [[🕯️ The Remembrance]] — 13th |
 
 ---
 
 # ❄️ Winter
 
-| Month | Days | Holiday |
-|---|---:|---|
-| **Frostreach** | 30 | ❄️ [[First Frost]] — 7th |
-| **Deepnight** | 30 | 🌑 [[The Long Night]] — 30th |
-| **Starrest** | 30 | ⭐ [[Night of Falling Stars]] — 25th |
+| Month          | Days | Holiday                             |
+| -------------- | ---: | ----------------------------------- |
+| **Frostreach** |   30 | [[❄️ First Frost]] — 7th            |
+| **Deepnight**  |   30 | [[🌑 The Long Night]] — 30th        |
+| **Starrest**   |   30 | [[⭐ Night of Falling Stars]] — 25th |
 
 ---
 
@@ -71,11 +71,11 @@ Together, they are known as:
 
 ## **The Five Between**
 
-- 🌑 [[The Veiled Day]]
-- 🔥 [[The First Flame]]
-- ☀️ [[High Festival]]
-- 🎁 [[The Giving]]
-- ⭐ [[Starfall Eve]]
+- [[🌑 The Veiled Day]]
+- [[🔥 The First Flame]]
+- [[☀️ High Festival]]
+- [[🎁 The Giving]]
+- [[⭐ Starfall Eve]]
 
 These days are celebrated throughout the Isles in different ways depending on region and culture.
 
@@ -111,7 +111,7 @@ A smaller copper-red moon.
 
 When both moons are full together, the event is known as:
 
-> **The Twin Vigil**
+> **[[🌙 The Twin Vigil]]**
 
 ---
 

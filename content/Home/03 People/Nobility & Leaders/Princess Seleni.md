@@ -12,7 +12,7 @@ Her upcoming wedding has transformed Solcrest into a city-wide celebration, draw
 - **Race/Species:** Human
 - **Occupation:** Princess of Astra Veyra
 - **Home:** [[Solcrest]]
-- **Affiliation:** [[Royal Family of Solcrest]]
+- **Affiliation:** [[The Crown of Astra Veyra]]
 - **Status:** Alive
 
 </details>
@@ -21,7 +21,6 @@ Her upcoming wedding has transformed Solcrest into a city-wide celebration, draw
 <summary><strong>🤝 Known Connections</strong></summary>
 
 - [[King Elon]]
-- [[Royal Family of Solcrest]]
 - [[Sir Pugsington]]
 
 </details>
@@ -39,7 +38,5 @@ Her upcoming wedding has transformed Solcrest into a city-wide celebration, draw
 <summary><strong>📍 Known Locations</strong></summary>
 
 - [[Solcrest]]
-- [[Solcrest Royal Castle]]
-- [[Royal Wedding Plaza]]
 
 </details>

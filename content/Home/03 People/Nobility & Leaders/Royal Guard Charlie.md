@@ -12,7 +12,7 @@ He takes his duties seriously, though he is known to be approachable when circum
 - **Race/Species:** Human
 - **Occupation:** Royal Guard
 - **Home:** [[Solcrest]]
-- **Affiliation:** [[Solcrest Guard]]
+- **Affiliation:** [[The Crown of Astra Veyra]]
 - **Status:** Alive
 
 </details>
@@ -21,8 +21,6 @@ He takes his duties seriously, though he is known to be approachable when circum
 <summary><strong>🤝 Known Connections</strong></summary>
 
 - [[Sir Pugsington]]
-- [[Solcrest Guard]]
-- [[Royal Family of Solcrest]]
 
 </details>
 
@@ -38,8 +36,6 @@ He takes his duties seriously, though he is known to be approachable when circum
 <details>
 <summary><strong>📍 Known Locations</strong></summary>
 
-- [[Solcrest City Gates]]
 - [[Solcrest]]
-- [[Royal Wedding Plaza]]
 
 </details>

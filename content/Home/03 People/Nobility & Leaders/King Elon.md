@@ -12,7 +12,7 @@ Though often distant from the everyday lives of common citizens, Elon maintains 
 - **Race/Species:** Human
 - **Occupation:** King of Astra Veyra
 - **Home:** [[Solcrest]]
-- **Affiliation:** [[Royal Family of Solcrest]]
+- **Affiliation:** [[The Crown of Astra Veyra]]
 - **Status:** Alive
 
 </details>
@@ -21,7 +21,6 @@ Though often distant from the everyday lives of common citizens, Elon maintains 
 <summary><strong>🤝 Known Connections</strong></summary>
 
 - [[Princess Seleni]]
-- [[Royal Family of Solcrest]]
 - [[Sir Pugsington]]
 
 </details>
@@ -39,7 +38,5 @@ Though often distant from the everyday lives of common citizens, Elon maintains 
 <summary><strong>📍 Known Locations</strong></summary>
 
 - [[Solcrest]]
-- [[Solcrest Royal Castle]]
-- [[Royal Wedding Plaza]]
 
 </details>

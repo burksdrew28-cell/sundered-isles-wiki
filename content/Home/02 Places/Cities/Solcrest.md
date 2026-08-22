@@ -28,7 +28,7 @@ To the north, the **[[Royal Castle]]** rises from a broad hill overlooking the c
 
 <details> <summary><strong>🏛️ Landmarks & Places of Interest</strong></summary>
 
-- [[{{Landmark Name}}]]
+- [[The Royal Plaza]]
     
 - [[{{Landmark Name}}]]
     
@@ -43,16 +43,16 @@ To the north, the **[[Royal Castle]]** rises from a broad hill overlooking the c
     
 - [[{{Organization Name}}]]
     
-- [[{{Faction Name}}]]
+- [[The Crown of Astra Veyra]]
     
 
 </details>
 
 <details> <summary><strong>👥 Notable People</strong></summary>
 
-- [[{{NPC Name}}]]
+- [[King Elon]]
     
-- [[{{NPC Name}}]]
+- [[Princess Seleni]]
     
 - [[{{NPC Name}}]]
     
