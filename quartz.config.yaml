@@ -164,7 +164,7 @@ plugins:
     options:
     title: Explorer
     folderClickBehavior: collapse
-    folderDefaultState: collapsed
+    folderDefaultState: expanded
     useSavedState: false
   - source: "@quartz-community/graph"
     enabled: true
