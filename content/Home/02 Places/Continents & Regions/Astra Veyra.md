@@ -46,6 +46,8 @@
 
 </details> <details> <summary><strong>⛩️ Temples & Sacred Places</strong></summary>
 
+</details>
+
 <details> <summary><strong>🌄 Geography</strong></summary>
 
 - [[Provon River]]
