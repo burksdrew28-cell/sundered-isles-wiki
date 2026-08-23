@@ -1,0 +1,1 @@
+Hidden among steep mountain walls, **Mioto Lake** is a cold, remarkably deep body of water lying beneath [[Fort Tamata]]. Snowmelt feeds its dark blue waters throughout the year, while sheer cliffs surrounding much of its shoreline make reaching certain parts of the lake nearly impossible.

@@ -1,0 +1,1 @@
+Beginning high within the mountains near the **[[Temple of Ramaten]]**, the **Gem River** winds down through [[Iornveil]] toward its lower valleys. Its name comes from tiny pieces of quartz, colorful stone, and occasional precious minerals carried downstream, making panning along certain stretches a popular pastime and an occasional source of spectacular arguments over ownership.

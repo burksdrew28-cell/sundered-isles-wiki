@@ -1,0 +1,1 @@
+Built upon a rocky island just offshore from [[Iornveil]], **Fort Ransoto** guards the approaches to the continent from the sea. Its thick walls appear almost fused to the island beneath them, and powerful beacon fires atop its towers can be seen from the mainland on clear nights.

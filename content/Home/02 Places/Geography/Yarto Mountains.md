@@ -1,0 +1,1 @@
+Running through the heart of [[Iornveil]], the **Yarto Mountains** form the towering backbone of the continent. They are named for the legendary dwarven warrior **[[Yarto]]**, who ancient stories claim drove the last great dragons from these peaks, though dwarves disagree enthusiastically about how much of that story is historical.
