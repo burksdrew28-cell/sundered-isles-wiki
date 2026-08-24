@@ -113,6 +113,15 @@ export default (() => {
                 // Quartz normalizes attachment filenames during its build, so the homepage
                 // map is identified by its stable content position rather than its source URL.
                 const mapSelector = 'body[data-slug="index"] article img'
+                const continentHotspots = [
+                  { name: "Eladrion", path: "home/02-places/continents--and--regions/eladrion", x: 27, y: 24, w: 25, h: 8 },
+                  { name: "Cindakar", path: "home/02-places/continents--and--regions/cindakar", x: 69, y: 14, w: 18, h: 8 },
+                  { name: "Ionrveil", path: "home/02-places/continents--and--regions/ionrveil", x: 67, y: 38, w: 20, h: 9 },
+                  { name: "Astra Veyra", path: "home/02-places/continents--and--regions/astra-veyra", x: 47, y: 50, w: 21, h: 8 },
+                  { name: "Velora", path: "home/02-places/continents--and--regions/velora", x: 17, y: 59, w: 18, h: 8 },
+                  { name: "Ilyara", path: "home/02-places/continents--and--regions/ilyara", x: 44, y: 82, w: 18, h: 9 },
+                  { name: "Kharos", path: "home/02-places/continents--and--regions/kharos", x: 75, y: 66, w: 18, h: 10 },
+                ]
                 let viewer
 
                 const closeViewer = () => {
@@ -197,9 +206,32 @@ export default (() => {
                   render()
                 }
 
+                const addContinentHotspots = (map) => {
+                  if (map.parentElement?.classList.contains("si-map-frame")) return
+                  const frame = document.createElement("span")
+                  frame.className = "si-map-frame"
+                  map.parentElement?.insertBefore(frame, map)
+                  frame.append(map)
+
+                  continentHotspots.forEach((continent) => {
+                    const hotspot = document.createElement("a")
+                    hotspot.className = "si-map-hotspot"
+                    hotspot.href = new URL(continent.path, document.baseURI).pathname
+                    hotspot.setAttribute("aria-label", "Open " + continent.name)
+                    hotspot.title = continent.name
+                    hotspot.style.left = continent.x + "%"
+                    hotspot.style.top = continent.y + "%"
+                    hotspot.style.width = continent.w + "%"
+                    hotspot.style.height = continent.h + "%"
+                    hotspot.addEventListener("click", (event) => event.stopPropagation())
+                    frame.append(hotspot)
+                  })
+                }
+
                 const wireMap = () => {
                   document.querySelectorAll(mapSelector).forEach((map) => {
                     if (map.dataset.mapViewerReady === "true") return
+                    addContinentHotspots(map)
                     map.dataset.mapViewerReady = "true"
                     map.setAttribute("role", "button")
                     map.setAttribute("tabindex", "0")

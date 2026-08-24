@@ -1718,3 +1718,35 @@ a:hover {
       0.85rem;
   }
 }
+/* Homepage map continent links. The map itself still opens the zoom viewer;
+   these transparent regions are reserved for the printed continent names. */
+body[data-slug="index"] .si-map-frame {
+  position: relative;
+  display: block;
+  line-height: 0;
+}
+
+body[data-slug="index"] .si-map-frame > img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.si-map-hotspot {
+  position: absolute;
+  z-index: 2;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  border: 2px solid transparent;
+  border-radius: 0.35rem;
+  background: rgba(197, 161, 91, 0);
+  cursor: pointer;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.si-map-hotspot:hover,
+.si-map-hotspot:focus-visible {
+  border-color: var(--si-gold-light);
+  background: rgba(197, 161, 91, 0.2);
+  outline: none;
+}
