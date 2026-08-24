@@ -42,20 +42,35 @@ if ($LASTEXITCODE -gt 7) {
 
 function Invoke-Git {
   param([Parameter(ValueFromRemainingArguments = $true)][string[]]$Arguments)
-  & git @Arguments
+  & git -c "safe.directory=$repository" @Arguments
   if ($LASTEXITCODE -ne 0) {
     throw "Git command failed: git $($Arguments -join ' ')"
   }
 }
 
+function Get-GitOutput {
+  param([Parameter(ValueFromRemainingArguments = $true)][string[]]$Arguments)
+
+  $output = & git -c "safe.directory=$repository" @Arguments 2>&1
+  if ($LASTEXITCODE -ne 0) {
+    $details = ($output | Out-String).Trim()
+    throw "Git command failed: git $($Arguments -join ' ')`n$details"
+  }
+
+  return ($output | Out-String).Trim()
+}
+
 try {
-  $branch = (& git branch --show-current).Trim()
+  $branch = Get-GitOutput branch --show-current
   if ($branch -ne "main") {
     throw "This publisher is set up for the main branch, but the current branch is '$branch'."
   }
 
   Invoke-Git add --all
-  & git diff --cached --quiet
+  & git -c "safe.directory=$repository" diff --cached --quiet
+  if ($LASTEXITCODE -gt 1) {
+    throw "Git command failed: git diff --cached --quiet"
+  }
   $hasChanges = $LASTEXITCODE -ne 0
 
   if ($hasChanges) {
