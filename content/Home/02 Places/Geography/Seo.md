@@ -1,0 +1,1 @@
+**[[Seo]]** is the largest and most heavily populated island in [[Ilayra]], home to [[Seopon]], [[Doa Beach]], [[Shadewater]], and much of the archipelago’s political and economic activity. Its landscape ranges from developed tropical coastline to thick inland jungle, rolling green highlands, hidden streams, and the mysterious waters of the [[Cao River]].

@@ -1,0 +1,1 @@
+Between [[Shadewater]] and [[Seopon]] lie the overgrown **[[Wagnu Ruins]]**, scattered through dense tropical vegetation just inland from the coast. Broken courtyards, collapsed walls, and carved stone channels suggest the site was once considerably larger than what remains visible today, though nobody seems to know exactly who lived there or why the settlement vanished.

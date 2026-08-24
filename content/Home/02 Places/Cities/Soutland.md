@@ -1,6 +1,6 @@
-**Caldzone** is one of [[Iornveil]]’s largest cities and its greatest port, built where the mountains finally surrender to the sea. Massive stone docks jut into the water beneath warehouses, cranes, shipyards, and tiered districts climbing the surrounding hillsides. Though predominantly dwarven, Caldzone sees sailors and merchants from across [[The Sundered Isles]], making it considerably louder and more cosmopolitan than most settlements deeper within [[Iornveil]].
+At the far southern reaches of [[Velora]] lies **Soutland**, a warm coastal city surrounded by humid forests, broad beaches, mangrove wetlands, and fertile farmland. The city is known for colorful buildings, open-air taverns, tropical fruits, spices, fishing, and a relaxed culture shaped by the heat and nearby sea. Buildings tend to be airy and brightly painted, with shaded balconies and enormous awnings covering many of the streets.
 
-The city is famous for heavy cargo, metal goods, stonework, and dwarven-built vessels designed to survive rough northern seas. Much of [[Iornveil]]’s trade with the outside world passes through Caldzone, and its harbor rarely sleeps. Locals take great pride in claiming that anything entering [[Iornveil]] eventually passes through a Caldzone dock, inspection hall, tavern, or argument.
+Soutland is often the first major stop for vessels approaching [[Velora]] from the south, giving the city a constant flow of sailors, traders, explorers, and travelers from distant regions. Life here moves at its own pace, especially during the hottest parts of the day, though the streets come alive after sunset when music, food stalls, and crowded patios take over much of the waterfront.
 
 ---
 

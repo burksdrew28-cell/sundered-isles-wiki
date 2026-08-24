@@ -1,0 +1,1 @@
+At the far southeastern edge of [[Ilayra]] stands the solitary **[[Sokwren Lighthouse]]**, watching over dangerous waters from its isolated island. Sailors rarely stop there and few can remember meeting its keeper, yet the lantern continues to shine every night, even through storms powerful enough to extinguish lesser beacons.

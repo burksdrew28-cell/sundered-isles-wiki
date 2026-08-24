@@ -1,0 +1,1 @@
+The **Balsa Mountains** rise behind the southern bays of [[Velora]], forming a dramatic backdrop to both [[Pello Bay]] and [[Montega Bay]]. Thick forests climb their lower slopes while exposed ridges overlook the coast, and old trails through the mountains were once frequently used by smugglers avoiding the busier roads below.

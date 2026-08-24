@@ -1,0 +1,1 @@
+Home to both [[Doge Town]] and [[Greywake]], **[[Dojani]]** is a lively tropical island of palm-covered beaches, steep green hills, fishing coves, and warm coastal waters. The western portions are heavily settled and energetic, while the quieter stretches of coast remain dotted with hidden beaches, small farms, and communities that prefer life away from the city.

@@ -1,0 +1,1 @@
+The **Lanxcu Ruins** are believed to be the remains of a major pirate settlement once controlled by a powerful gang that dominated both **[[Pello Bay]]** and **[[Montega Bay]]**. Crumbling watchtowers and stone foundations still overlook hidden coves where ships are said to have vanished with their cargo long before reaching port.

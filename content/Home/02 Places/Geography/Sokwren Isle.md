@@ -1,0 +1,1 @@
+At the southeastern edge of [[Ilayra]] lies **[[Sokwren Isle]]**, a narrow, windswept island surrounded by powerful currents and frequent ocean storms. Vegetation grows low against the constant wind, seabirds nest along the cliffs in enormous colonies, and the mysterious [[Sokwren Lighthouse]] remains the island’s only widely known structure.

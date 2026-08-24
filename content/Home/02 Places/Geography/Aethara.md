@@ -1,0 +1,1 @@
+**[[Aethara]]** is a lush island of coral cliffs, shallow lagoons, bright reefs, and strange stone formations surrounding the elven city of [[Aetherwyn]]. Sections of ancient coral can be found surprisingly far inland, reinforcing old stories that parts of the island once rested beneath the sea.

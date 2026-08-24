@@ -1,0 +1,1 @@
+The **Velora Canal** is one of the greatest modern engineering projects in [[The Sundered Isles]], providing a navigable passage across part of [[Velora]] and dramatically shortening several major shipping routes. Completed in **6128 AS**, the canal transformed regional trade almost immediately and led directly to the founding and rapid growth of Canalaton.

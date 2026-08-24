@@ -1,0 +1,1 @@
+**Velori** is a large mountainous island off [[Velora]]’s eastern coast, believed to have once been physically connected to the mainland before being separated during [[The Sundering]]. The towering **[[Pow Mountains]]** divide much of the island, creating isolated valleys, steep coastal cliffs, and settlements that have developed distinctly from mainland [[Velora]].

@@ -1,6 +1,6 @@
-**Caldzone** is one of [[Iornveil]]’s largest cities and its greatest port, built where the mountains finally surrender to the sea. Massive stone docks jut into the water beneath warehouses, cranes, shipyards, and tiered districts climbing the surrounding hillsides. Though predominantly dwarven, Caldzone sees sailors and merchants from across [[The Sundered Isles]], making it considerably louder and more cosmopolitan than most settlements deeper within [[Iornveil]].
+On [[Velora]]’s western coast lies **Salton**, one of the greatest fishing cities in [[The Sundered Isles]] and a place where nearly every family has some connection to the sea. Fish markets dominate the waterfront, while smokehouses, shipyards, net makers, bait stalls, taverns, and warehouses crowd the neighborhoods surrounding the docks. Fishing fleets leave before dawn and return beneath clouds of screaming seabirds.
 
-The city is famous for heavy cargo, metal goods, stonework, and dwarven-built vessels designed to survive rough northern seas. Much of [[Iornveil]]’s trade with the outside world passes through Caldzone, and its harbor rarely sleeps. Locals take great pride in claiming that anything entering [[Iornveil]] eventually passes through a Caldzone dock, inspection hall, tavern, or argument.
+Salton is commonly nicknamed **“Hammer Head City”**, both for the nearby peninsula and for the enormous hammerhead sharks occasionally caught in the surrounding waters. The creature has become something of an unofficial symbol of the city, appearing on signs, ships, banners, mugs, helmets, and just about anything else the locals can paint one onto.
 
 ---
 

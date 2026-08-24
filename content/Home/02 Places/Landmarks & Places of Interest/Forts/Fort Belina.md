@@ -1,0 +1,1 @@
+Built at the northern tip of the **[[Hammer Head Peninsula]]**, **Fort Belina** overlooks some of [[Velora]]’s busiest western fishing waters. Its high towers once served primarily as coastal defenses, though today the fort spends almost as much time assisting ships caught in storms as it does watching for threats.

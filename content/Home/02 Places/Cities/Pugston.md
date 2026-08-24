@@ -1,6 +1,6 @@
-**Caldzone** is one of [[Iornveil]]’s largest cities and its greatest port, built where the mountains finally surrender to the sea. Massive stone docks jut into the water beneath warehouses, cranes, shipyards, and tiered districts climbing the surrounding hillsides. Though predominantly dwarven, Caldzone sees sailors and merchants from across [[The Sundered Isles]], making it considerably louder and more cosmopolitan than most settlements deeper within [[Iornveil]].
+Nestled among the mountains of **[[Velori]]** stands **Pugston**, an unusual city populated largely by a race of small, intelligent humanoid pugs. These pugfolk walk upright, speak normally, wear clothing, operate shops, practice trades, participate in politics, and have built an entire functioning society while remaining unmistakably adorable.
 
-The city is famous for heavy cargo, metal goods, stonework, and dwarven-built vessels designed to survive rough northern seas. Much of [[Iornveil]]’s trade with the outside world passes through Caldzone, and its harbor rarely sleeps. Locals take great pride in claiming that anything entering [[Iornveil]] eventually passes through a Caldzone dock, inspection hall, tavern, or argument.
+Pugston itself is lively, compact, and full of buildings designed for shorter residents, though larger visitors are accommodated with varying degrees of success. Pugfolk culture places enormous value on loyalty, hospitality, food, and dramatic public displays of emotion. Political disputes can become surprisingly fierce, particularly when seating arrangements, snacks, or disputed ownership of a particularly comfortable cushion are involved.
 
 ---
 

@@ -1,0 +1,1 @@
+Running through the center of [[Velori]], the **Pow Mountains** form the island’s jagged spine and divide its settlements from one another. High ridges, narrow valleys, hidden springs, and difficult passes make travel across the range challenging, while isolated ruins and shrines can still be found among the peaks.

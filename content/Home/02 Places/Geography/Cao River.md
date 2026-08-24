@@ -1,0 +1,1 @@
+Flowing across [[Seo]] toward the sea, the **[[Cao River]]** is famous for its unusually clear water and the mystery surrounding its source. Expeditions searching for the spring that feeds the river have repeatedly failed to locate it, giving rise to legends that the water emerges from somewhere beneath the island and carries traces of ancient magical essence.

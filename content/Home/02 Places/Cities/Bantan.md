@@ -1,6 +1,6 @@
-**Caldzone** is one of [[Iornveil]]’s largest cities and its greatest port, built where the mountains finally surrender to the sea. Massive stone docks jut into the water beneath warehouses, cranes, shipyards, and tiered districts climbing the surrounding hillsides. Though predominantly dwarven, Caldzone sees sailors and merchants from across [[The Sundered Isles]], making it considerably louder and more cosmopolitan than most settlements deeper within [[Iornveil]].
+Little is commonly known about **Bantan**, a secluded city whose people have developed a reputation for keeping almost entirely to themselves. Visitors are permitted, trade occurs, and travelers occasionally pass through, yet very few outsiders ever feel as though they truly understand the place. Businesses close without warning, conversations stop when strangers approach, and locals are remarkably skilled at answering questions without actually providing information.
 
-The city is famous for heavy cargo, metal goods, stonework, and dwarven-built vessels designed to survive rough northern seas. Much of [[Iornveil]]’s trade with the outside world passes through Caldzone, and its harbor rarely sleeps. Locals take great pride in claiming that anything entering [[Iornveil]] eventually passes through a Caldzone dock, inspection hall, tavern, or argument.
+Despite the rumors, Bantan is not openly hostile. Its streets are orderly, its people polite, and its markets surprisingly well supplied. What makes travelers uneasy is simply the feeling that everyone in Bantan knows something they do not, and that nobody particularly intends to explain it.
 
 ---
 

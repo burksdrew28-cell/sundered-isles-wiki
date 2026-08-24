@@ -1,0 +1,1 @@
+**Lake Okamack** is a broad inland lake surrounded by forests, farmland, and the villages of [[Hearthglen]] and [[Pinehaven]]. Its calm waters make it an important local source of fish and transportation, though sudden banks of fog occasionally roll across the lake with remarkable speed.

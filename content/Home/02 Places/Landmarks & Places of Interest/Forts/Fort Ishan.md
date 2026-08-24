@@ -1,0 +1,1 @@
+Standing alone on **[[Ishan Cay]]**, **[[Fort Ishan]]** has been transformed from a military outpost into a refuge for sailors crossing the Ilayran seas. Fresh water, preserved food, basic repairs, shelter, and medical supplies are kept within its weathered walls, offered freely or in exchange for something the caretakers consider equally valuable: a good story.

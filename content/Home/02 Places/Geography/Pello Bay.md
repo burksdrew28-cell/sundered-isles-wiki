@@ -1,0 +1,1 @@
+**Pello Bay** is one of two great bays along southern [[Velora]], enclosed by warm waters, wooded slopes, and sections of the **[[Balsa Mountains]]**. Its many coves once made the region notorious for pirates, smugglers, and hidden anchorages, some of which are still used today.
