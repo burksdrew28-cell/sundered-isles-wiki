@@ -1,4 +1,6 @@
-{{Short 1–2 paragraph description of the city. Keep this player-facing and focused on the atmosphere, appearance, culture, and what the city is known for.}}
+Deep within the mountains stands **Black Forge**, the capital of [[Iornveil]] and the beating heart of dwarven civilization in [[The Sundered Isles]]. Much of the city is carved directly into the mountain, with enormous halls, layered districts, bridges spanning underground chasms, and glowing forge complexes stretching far beneath the surface. Only a fraction of Black Forge is visible from outside, where monumental gates and stone towers guard the entrances into the mountain.
+
+Black Forge is renowned for smithing, precious metals, ancient artifacts, master-crafted weapons, and generations of dwarven tradition. Its markets contain some of the most valuable goods anywhere in the Isles, while entire families dedicate themselves to crafts passed down over centuries. The constant sound of hammers echoes throughout the deeper districts, earning the city an old saying: **“When Black Forge grows quiet, check whether the mountain is still there.”**
 
 ---
 

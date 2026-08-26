@@ -56,8 +56,6 @@
     
 - [[The Marshlands]]
     
-- [[The Southern Coast]]
-    
 - [[The Mesai Mountains]]
     
 
