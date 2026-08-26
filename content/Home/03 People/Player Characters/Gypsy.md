@@ -1,5 +1,7 @@
 _[[Sea Elf]] • **Druid**_
 
+(Fill After Session 1)
+
 {{A short 2–4 sentence description of the character. Mention their appearance, general personality, reputation, or anything the other party members would reasonably know about them.}}
 
 ---
