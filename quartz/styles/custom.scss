@@ -428,6 +428,8 @@ blockquote {
    ========================================================= */
 
 body[data-slug="index"]
+article img,
+body[data-slug="home/10-maps/world-maps/the-sundered-isles"]
 article img {
 
   display:
@@ -1750,13 +1752,15 @@ a:hover {
 }
 /* Homepage map continent links. The map itself still opens the zoom viewer;
    these transparent regions are reserved for the printed continent names. */
-body[data-slug="index"] .si-map-frame {
+body[data-slug="index"] .si-map-frame,
+body[data-slug="home/10-maps/world-maps/the-sundered-isles"] .si-map-frame {
   position: relative;
   display: block;
   line-height: 0;
 }
 
-body[data-slug="index"] .si-map-frame > img {
+body[data-slug="index"] .si-map-frame > img,
+body[data-slug="home/10-maps/world-maps/the-sundered-isles"] .si-map-frame > img {
   display: block;
   width: 100%;
   height: auto;

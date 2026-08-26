@@ -144,9 +144,12 @@ export default (() => {
                 if (window.__sunderedIslesMapViewer) return
                 window.__sunderedIslesMapViewer = true
 
-                // Quartz normalizes attachment filenames during its build, so the homepage
-                // map is identified by its stable content position rather than its source URL.
-                const mapSelector = 'body[data-slug="index"] article img'
+                // Enable the interactive viewer for the homepage map and every map on the
+                // World Maps overview page. Quartz normalizes attachment filenames at build time.
+                const mapSelector = [
+                  'body[data-slug="index"] article img',
+                  'body[data-slug="home/10-maps/world-maps/the-sundered-isles"] article img',
+                ].join(", ")
                 const continentHotspots = [
                   { name: "Eladrion", path: "home/02-places/continents--and--regions/eladrion", x: 27, y: 24, w: 25, h: 8 },
                   { name: "Cindakar", path: "home/02-places/continents--and--regions/cindakar", x: 69, y: 14, w: 18, h: 8 },
