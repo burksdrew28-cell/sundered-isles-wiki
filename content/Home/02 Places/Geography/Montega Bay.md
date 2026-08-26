@@ -1,1 +1,1 @@
-Neighboring [[Pello Bay]], **Montega Bay** forms another broad southern inlet bordered by rugged highlands and sheltered beaches. The waters are generally calmer than the open sea, making the bay popular with merchants, fishermen, and anyone interested in disappearing briefly from official shipping routes.
+??? :)

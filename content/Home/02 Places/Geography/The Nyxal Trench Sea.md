@@ -1,1 +1,1 @@
-Surrounding [[Cindakar]] is **[[The Nyxal Trench Sea]]**, a deep and notoriously dangerous stretch of ocean separating the volcanic continent from the rest of [[The Sundered Isles]], particularly [[Iornveil]] to the south. Powerful currents, sudden storms, deep trenches, and unpredictable waters make crossing hazardous even for experienced sailors, creating a natural barrier that has kept [[Cindakar]] isolated for generations.
+??? :)

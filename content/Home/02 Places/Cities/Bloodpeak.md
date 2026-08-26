@@ -1,6 +1,4 @@
-At the extreme northeastern edge of [[Cindakar]] stands **[[Bloodpeak]]**, the only known permanent city on the continent. Built into jagged volcanic cliffs overlooking the sea, the city is inhabited predominantly by orcs who have adapted to a landscape most outsiders consider nearly unlivable. Black stone buildings, fortified terraces, rope bridges, and tunnels cut into the mountainside protect residents from the brutal terrain surrounding them.
-
-Reaching [[Bloodpeak]] by land is extraordinarily difficult, with lava fields, steep ravines, volcanic vents, and unstable mountain trails separating it from much of [[Cindakar]]. As a result, the city has remained remarkably isolated, developing its own traditions and reputation among the orcs of [[The Sundered Isles]]. Few outsiders have visited, and fewer still can claim to know much about what happens behind Bloodpeak’s dark stone walls.
+??? :)
 
 ---
 

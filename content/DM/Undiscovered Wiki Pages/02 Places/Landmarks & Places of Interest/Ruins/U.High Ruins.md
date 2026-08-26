@@ -1,0 +1,1 @@
+Scattered across the upper reaches of the [[Mansa Plateau]], the **[[High Ruins]]** are the remains of a settlement whose original name has been lost. Strange stone foundations stretch farther beneath the grass than anyone has fully mapped.

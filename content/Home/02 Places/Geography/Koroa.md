@@ -1,1 +1,1 @@
-The large central island of **[[Koroa]]** remains almost completely uninhabited despite its size and rich tropical landscape. Dense jungle, steep interior ridges, enormous flowers, and unusual animal calls have discouraged permanent settlement, while older sailors insist the island seems considerably louder at night than any jungle has a right to be.
+??? :)

@@ -1,0 +1,1 @@
+Standing upon a small rocky island off the coast of [[Cindakar]], **[[Fort Zentala]]** is one of the only structures known to exist within [[The Nyxal Trench Sea]]. Its battered black-stone walls have endured violent waves and storms for generations, though exactly who continues to maintain the remote fortress is not commonly known.

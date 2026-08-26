@@ -1,1 +1,1 @@
-Wild and heavily forested, **[[Wakara]]** is infamous throughout [[Ilayra]] as the island of the [[Wak Ruins]] and the enormous creatures said to inhabit its interior. Beaches around the island are deceptively beautiful, but most sailors refuse to travel beyond the treeline unless they have an exceptionally good reason.
+??? :)

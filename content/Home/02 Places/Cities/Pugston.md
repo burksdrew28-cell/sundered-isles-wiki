@@ -1,6 +1,4 @@
-Nestled among the mountains of **[[Velori]]** stands **Pugston**, an unusual city populated largely by a race of small, intelligent humanoid pugs. These pugfolk walk upright, speak normally, wear clothing, operate shops, practice trades, participate in politics, and have built an entire functioning society while remaining unmistakably adorable.
-
-Pugston itself is lively, compact, and full of buildings designed for shorter residents, though larger visitors are accommodated with varying degrees of success. Pugfolk culture places enormous value on loyalty, hospitality, food, and dramatic public displays of emotion. Political disputes can become surprisingly fierce, particularly when seating arrangements, snacks, or disputed ownership of a particularly comfortable cushion are involved.
+??? :)
 
 ---
 

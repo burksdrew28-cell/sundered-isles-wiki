@@ -1,4 +1,4 @@
-Just south of [[Gronkar]] lies **[[Gloamfield]]**, an old settlement that has gradually become little more than a forced labor camp under the influence of powerful orc clans. Weathered homes and abandoned farms surround quarry yards, supply depots, and guarded work areas where captives and indebted workers are kept under harsh conditions. Travelers passing nearby are usually encouraged to keep moving and ask as few questions as possible.
+??? :)
 
 ---
 

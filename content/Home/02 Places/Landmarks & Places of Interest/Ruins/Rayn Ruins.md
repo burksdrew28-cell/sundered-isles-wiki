@@ -1,1 +1,1 @@
-The weathered halls of the **Rayn Ruins** have long since lost whatever ancient importance they once possessed. Modern dwarves have enthusiastically repurposed the site for military exercises, climbing competitions, festivals, drinking contests, and parties large enough that newcomers occasionally mistake the ruins for an inhabited settlement.
+??? :)

@@ -1,1 +1,1 @@
-The **[[Wak Ruins]]** are the remains of an old outpost hidden on the wild island of **[[Wakara]]**. Few people visit, partly because the ruins themselves are remote and partly because sailors insist enormous creatures roam the island’s interior. Reliable descriptions of these beasts are frustratingly rare, as most people who claim to have seen one were apparently very busy running in the opposite direction.
+??? :)

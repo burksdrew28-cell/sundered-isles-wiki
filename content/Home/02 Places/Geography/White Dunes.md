@@ -1,1 +1,1 @@
-The **[[White Dunes]]** dominate much of central and southern [[Kharos]], an immense desert of pale sand stretching farther than the eye can see. Winds reshape the landscape constantly, burying roads, uncovering ruins, and moving dunes large enough to make familiar landmarks disappear for months at a time.
+??? :)

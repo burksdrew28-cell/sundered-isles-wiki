@@ -1,0 +1,3 @@
+Somewhere within the [[White Dunes]] lies **[[The Wandering Spine]]**, the colossal skeleton of an ancient serpent believed to have lived before [[The Sundering]]. Its enormous ribs rise from the sand like bleached towers, while sections of vertebrae are large enough to shelter entire caravans.
+
+The unsettling part is finding it twice. Travelers have reported the skeleton hundreds of miles apart, sometimes within the same year, yet expeditions deliberately searching for it almost always fail. Scholars argue that shifting dunes merely expose different portions of an impossibly long skeleton. Desert nomads tend to smile when scholars say this and quietly change the subject.

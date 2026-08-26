@@ -1,6 +1,4 @@
-Deep within [[The Marshlands]] of [[Astra Veyra]] lies **[[Morgruk]]**, an isolated city inhabited primarily by [[Orcs]] and surrounded by miles of fog, black water, twisted reeds, and difficult trails. Outsiders are strongly discouraged from visiting, and most travelers consider simply avoiding the marsh altogether to be the wiser option. Very little reliable information leaves [[Morgruk]], which has allowed rumors about the city to grow into something much larger than the truth, whatever that truth may actually be.
-
-Every so often, wanderers emerge from the surrounding marshes confused, exhausted, and unable to explain how they arrived there. Some speak wildly of visions showing the destruction of the world, while others remember almost nothing at all. Whether [[Morgruk]] has anything to do with these incidents is unknown. Stranger still are persistent stories claiming that somewhere in the marshlands grows the **oldest living tree in existence**, hidden in a place where even the locals rarely travel.
+??? :)
 
 ---
 

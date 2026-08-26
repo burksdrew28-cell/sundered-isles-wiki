@@ -1,1 +1,1 @@
-At the northernmost point of [[Velora]] stands the lonely **Zanti Lighthouse**, battered constantly by wind, waves, and cold northern storms. Nobody seems certain whether a keeper still lives there, and supply deliveries supposedly stopped years ago. Nevertheless, the beacon continues to ignite every night without fail.
+??? :)

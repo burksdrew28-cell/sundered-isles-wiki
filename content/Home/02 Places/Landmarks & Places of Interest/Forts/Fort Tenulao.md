@@ -1,1 +1,1 @@
-Standing along the western coast of [[Velori]], **Fort Tenulao** watches over the island’s rough coastal waters from a fortress built directly into the surrounding cliffs. Portions of the fort extend underground into old tunnels and storage chambers, many of which are said to predate the present structure.
+??? :)

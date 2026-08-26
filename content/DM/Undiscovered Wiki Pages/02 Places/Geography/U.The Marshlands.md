@@ -1,0 +1,1 @@
+**[[The Marshlands]]** stretch across a broad region of [[Astra Veyra]] in a maze of dark water, reeds, twisted trees, fog-covered islands, and trails that vanish beneath the mud. Few outsiders travel far into them without a guide, and stories of strange lights, missing travelers, unusual dreams, and things moving beneath the water are common along their borders.

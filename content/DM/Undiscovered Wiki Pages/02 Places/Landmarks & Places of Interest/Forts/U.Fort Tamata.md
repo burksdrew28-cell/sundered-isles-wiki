@@ -1,0 +1,1 @@
+Wedged deep within the mountains above **[[Mioto Lake]]**, **Fort Tamata** occupies one of the most naturally defensible positions in [[Iornveil]]. Sheer cliffs and narrow mountain paths make reaching it difficult enough that an old dwarven joke claims invading the fort is easier than visiting it.

@@ -1,1 +1,1 @@
-Just north of [[Willowrest]] lie the unsettling **Stasis Ruins**, named for the strange distortions of time reported within their boundaries. Travelers have claimed watches stop, shadows move incorrectly, hours pass in minutes, or entire afternoons disappear without explanation. Most locals strongly recommend viewing them from somewhere comfortably outside the ruins.
+??? :)

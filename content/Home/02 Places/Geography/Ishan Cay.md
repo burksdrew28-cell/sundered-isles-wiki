@@ -1,1 +1,1 @@
-Small and isolated, **[[Ishan Cay]]** sits near the center of [[Ilayra]]’s most heavily traveled sea routes. The island offers little beyond rocky shoreline, palms, fresh water, and [[Fort Ishan]], yet its position has made it one of the most welcome sights a tired sailor can encounter.
+??? :)

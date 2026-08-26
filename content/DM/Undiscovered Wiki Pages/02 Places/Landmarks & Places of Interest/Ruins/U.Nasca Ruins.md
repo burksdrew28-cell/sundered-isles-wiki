@@ -1,0 +1,1 @@
+Between [[Midhere]] and [[Fort Tala]] lie the scattered **[[Nasca Ruins]]**, a collection of low stone structures and enormous geometric markings carved into the desert floor. Many of the patterns are impossible to recognize from ground level and only reveal their full shapes when viewed from nearby heights.
