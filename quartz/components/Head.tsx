@@ -97,9 +97,43 @@ export default (() => {
         <script
           dangerouslySetInnerHTML={{
             __html: `
-              // Keep the Explorer focused on the current page's folder path.
+              // Keep every Explorer folder expanded on every page.
               localStorage.removeItem("fileTree")
               document.addEventListener("prenav", () => localStorage.removeItem("fileTree"))
+
+              // The content lives under a Home folder. Present that root as a normal
+              // homepage link while leaving all of its numbered folders visible.
+              const wireExplorerHome = () => {
+                document.querySelectorAll(".explorer").forEach((explorer) => {
+                  if (explorer.dataset.homeLinkReady === "true") return
+
+                  const buttons = [...explorer.querySelectorAll(".folder-button")]
+                  const homeButton = buttons.find((button) => button.textContent?.trim() === "Home")
+                  if (!homeButton) return
+
+                  const folderContainer = homeButton.closest(".folder-container")
+                  const homeLink = document.createElement("a")
+                  homeLink.className = "explorer-link si-explorer-home"
+                  const siteTitleLink = document.querySelector("a.page-title, .page-title a")
+                  homeLink.href = siteTitleLink?.href || new URL("/", document.baseURI).href
+                  homeLink.textContent = "Home"
+                  homeLink.setAttribute("data-for", "index")
+                  folderContainer?.replaceWith(homeLink)
+
+                  const folderOuter = homeLink.nextElementSibling
+                  folderOuter?.classList.add("open", "si-explorer-home-children")
+                  if (folderOuter instanceof HTMLElement) folderOuter.style.display = "grid"
+                  explorer.dataset.homeLinkReady = "true"
+                })
+              }
+
+              document.addEventListener("DOMContentLoaded", wireExplorerHome)
+              document.addEventListener("nav", wireExplorerHome)
+              document.addEventListener("render", wireExplorerHome)
+              new MutationObserver(wireExplorerHome).observe(document.documentElement, {
+                childList: true,
+                subtree: true,
+              })
             `,
           }}
         />
@@ -136,9 +170,9 @@ export default (() => {
                   let scale = 1
                   let x = 0
                   let y = 0
-                  let pointerId
-                  let startX = 0
-                  let startY = 0
+                  const pointers = new Map()
+                  let panStart
+                  let pinchStart
 
                   viewer = document.createElement("div")
                   viewer.className = "si-map-viewer"
@@ -162,34 +196,72 @@ export default (() => {
                   const render = () => {
                     image.style.transform = \`translate(\${x}px, \${y}px) scale(\${scale})\`
                   }
-                  const zoom = (amount) => {
-                    scale = Math.min(4, Math.max(1, scale + amount))
+                  const setZoom = (nextScale, centerX, centerY) => {
+                    const previousScale = scale
+                    scale = Math.min(5, Math.max(1, nextScale))
+                    if (centerX !== undefined && centerY !== undefined && previousScale !== scale) {
+                      const rect = canvas.getBoundingClientRect()
+                      const pointX = centerX - rect.left - rect.width / 2
+                      const pointY = centerY - rect.top - rect.height / 2
+                      const ratio = scale / previousScale
+                      x = pointX - (pointX - x) * ratio
+                      y = pointY - (pointY - y) * ratio
+                    }
                     if (scale === 1) { x = 0; y = 0 }
                     render()
                   }
+                  const zoom = (amount) => setZoom(scale + amount)
 
                   canvas.addEventListener("wheel", (event) => {
                     event.preventDefault()
                     zoom(event.deltaY < 0 ? 0.2 : -0.2)
                   }, { passive: false })
                   canvas.addEventListener("pointerdown", (event) => {
-                    if (scale === 1) return
-                    pointerId = event.pointerId
-                    startX = event.clientX - x
-                    startY = event.clientY - y
-                    canvas.setPointerCapture(pointerId)
+                    pointers.set(event.pointerId, { x: event.clientX, y: event.clientY })
+                    canvas.setPointerCapture(event.pointerId)
                     canvas.classList.add("is-panning")
+                    if (pointers.size === 1) {
+                      panStart = { pointerX: event.clientX, pointerY: event.clientY, x, y }
+                    } else if (pointers.size === 2) {
+                      const [a, b] = [...pointers.values()]
+                      pinchStart = {
+                        distance: Math.hypot(b.x - a.x, b.y - a.y),
+                        scale,
+                        centerX: (a.x + b.x) / 2,
+                        centerY: (a.y + b.y) / 2,
+                      }
+                    }
                   })
                   canvas.addEventListener("pointermove", (event) => {
-                    if (event.pointerId !== pointerId) return
-                    x = event.clientX - startX
-                    y = event.clientY - startY
-                    render()
+                    if (!pointers.has(event.pointerId)) return
+                    pointers.set(event.pointerId, { x: event.clientX, y: event.clientY })
+                    if (pointers.size === 2 && pinchStart) {
+                      const [a, b] = [...pointers.values()]
+                      const distance = Math.hypot(b.x - a.x, b.y - a.y)
+                      const centerX = (a.x + b.x) / 2
+                      const centerY = (a.y + b.y) / 2
+                      setZoom(pinchStart.scale * distance / Math.max(1, pinchStart.distance), centerX, centerY)
+                      x += centerX - pinchStart.centerX
+                      y += centerY - pinchStart.centerY
+                      pinchStart.centerX = centerX
+                      pinchStart.centerY = centerY
+                      render()
+                    } else if (pointers.size === 1 && panStart && scale > 1) {
+                      x = panStart.x + event.clientX - panStart.pointerX
+                      y = panStart.y + event.clientY - panStart.pointerY
+                      render()
+                    }
                   })
                   const stopPanning = (event) => {
-                    if (event.pointerId !== pointerId) return
-                    pointerId = undefined
-                    canvas.classList.remove("is-panning")
+                    pointers.delete(event.pointerId)
+                    pinchStart = undefined
+                    if (pointers.size === 1) {
+                      const point = [...pointers.values()][0]
+                      panStart = { pointerX: point.x, pointerY: point.y, x, y }
+                    } else {
+                      panStart = undefined
+                      canvas.classList.remove("is-panning")
+                    }
                   }
                   canvas.addEventListener("pointerup", stopPanning)
                   canvas.addEventListener("pointercancel", stopPanning)

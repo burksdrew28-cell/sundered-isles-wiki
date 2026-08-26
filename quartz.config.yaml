@@ -162,10 +162,10 @@ plugins:
   - source: "@quartz-community/explorer"
     enabled: true
     options:
-    title: Explorer
-    folderClickBehavior: collapse
-    folderDefaultState: expanded
-    useSavedState: false
+      title: Explorer
+      folderClickBehavior: collapse
+      folderDefaultState: expanded
+      useSavedState: false
   - source: "@quartz-community/graph"
     enabled: true
     layout:

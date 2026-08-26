@@ -473,6 +473,7 @@ article img {
   overflow: hidden;
   touch-action: none;
   cursor: grab;
+  overscroll-behavior: contain;
 }
 
 .si-map-viewer__canvas.is-panning {
@@ -506,6 +507,35 @@ article img {
   color: var(--si-parchment-light);
   font: 600 1rem/1 var(--bodyFont);
   cursor: pointer;
+}
+
+.explorer .si-explorer-home {
+  display: block;
+  margin: 0.35rem 0 0.2rem;
+  font-weight: 700;
+  color: var(--si-ocean-deep);
+}
+
+.explorer .si-explorer-home-children {
+  margin-left: 0;
+}
+
+@media all and (max-width: 800px) {
+  .si-map-viewer {
+    padding: 0;
+  }
+
+  .si-map-viewer__controls {
+    top: auto;
+    right: 50%;
+    bottom: max(0.75rem, env(safe-area-inset-bottom));
+    transform: translateX(50%);
+  }
+
+  .si-map-viewer__controls button {
+    min-width: 3rem;
+    min-height: 3rem;
+  }
 }
 
 .si-map-viewer__controls button:hover {
