@@ -1,0 +1,1 @@
+Hidden somewhere within the [[White Dunes]], **[[Jascu Oasis]]** is an astonishingly beautiful refuge of cool pools, flowering palms, shaded courtyards, music, soft beds, and tables overflowing with food. Travelers are welcomed enthusiastically and offered small crystalline sweets called **Jascu Pearls**, made from chilled desert nectar and coated in sparkling sugar.

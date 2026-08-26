@@ -1,6 +1,6 @@
-On the great island of **[[Seo]]** stands **[[Seopon]]**, the wealthy capital of [[Ilayra]] and one of the most extravagant cities in [[The Sundered Isles]]. Marble villas, tiled courtyards, shaded promenades, tropical gardens, elaborate fountains, and colorful markets spread along its warm coastline. [[Seopon]] is especially famous for luxury goods, rare imports, jewelry, pearls, fine fabrics, exotic foods, and unusual treasures arriving from across the archipelago.
+Built among the rugged **[[Sladge Mountains]]** north of the [[White Dunes]], **[[Gronkar]]** is a powerful orc city of stone terraces, fortified tunnels, steep stairways, and heavy gates carved directly into the desert mountains. Unlike the scattered settlements of the dunes below, Gronkar benefits from cool mountain caverns, hidden springs, and easily defended passes.
 
-Wealth is displayed proudly here, sometimes with astonishing enthusiasm. Merchants deal in platinum and pearls as readily as common coin, while noble families and successful traders occupy lavish homes overlooking the sea. Beneath the polish, however, [[Seopon]] remains unmistakably Ilayran: loud markets, warm nights, music in the streets, packed docks, and sailors bringing strange stories from islands most residents have never visited.
+Orc clans dominate life throughout the city, with strength, loyalty, and service to one’s clan carrying enormous social importance. Smithing, mining, beast handling, and mountain warfare are particularly respected. Outsiders are allowed within certain districts, but visitors quickly discover that Gronkar’s hospitality depends heavily on who invited them.
 
 ---
 
@@ -28,7 +28,7 @@ Wealth is displayed proudly here, sometimes with astonishing enthusiasm. Merchan
 
 <details> <summary><strong>🏛️ Landmarks & Places of Interest</strong></summary>
 
-- [[The Royal Plaza]]
+- [[{{Landmark Name}}]]
     
 - [[{{Landmark Name}}]]
     
@@ -43,16 +43,16 @@ Wealth is displayed proudly here, sometimes with astonishing enthusiasm. Merchan
     
 - [[{{Organization Name}}]]
     
-- [[The Crown of Astra Veyra]]
+- [[{{Faction Name}}]]
     
 
 </details>
 
 <details> <summary><strong>👥 Notable People</strong></summary>
 
-- [[King Elon]]
+- [[{{NPC Name}}]]
     
-- [[Princess Seleni]]
+- [[{{NPC Name}}]]
     
 - [[{{NPC Name}}]]
     

@@ -1,0 +1,1 @@
+**[[Daharsen Isle]]** is a tiny sand-and-stone island off the eastern coast of [[Kharos]], known almost entirely for the mysterious [[Temple of Daharsen]]. The island is frequently obscured by mirages and sometimes cannot be seen at all, even from locations where it should be plainly visible.

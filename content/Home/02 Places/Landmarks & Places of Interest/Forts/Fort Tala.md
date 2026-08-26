@@ -1,0 +1,1 @@
+South of [[Midhere]] stands **[[Fort Tala]],** an abandoned fortress believed to have been overrun by orcs many years ago. Its walls still offer excellent shelter from the desert winds, which unfortunately makes the fort equally attractive to bandits, raiders, wild animals, and anyone interested in waiting for travelers to wander inside.

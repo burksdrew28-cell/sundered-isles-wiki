@@ -1,0 +1,1 @@
+The **[[Sladge Mountains]]** rise across northern [[Kharos]], forming a jagged region of dry peaks, narrow canyons, mineral-rich cliffs, and fresh water springs. Cooler than the dunes below, the range supports several orc communities and provides some of the continent’s most reliable sources of stone, metal, and fresh water.

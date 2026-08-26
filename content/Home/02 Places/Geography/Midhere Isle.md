@@ -1,0 +1,1 @@
+Just off northern [[Kharos]] lies **[[Midhere Isle]]**, a rocky island positioned along one of the easiest sea routes toward [[Iornveil]]. Most of the island has been shaped by the growth of [[Midhere]], though wind-carved cliffs and narrow beaches still dominate its outer coastline.

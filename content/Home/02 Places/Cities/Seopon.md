@@ -1,6 +1,4 @@
-On the great island of **[[Seo]]** stands **[[Seopon]]**, the wealthy capital of [[Ilayra]] and one of the most extravagant cities in [[The Sundered Isles]]. Marble villas, tiled courtyards, shaded promenades, tropical gardens, elaborate fountains, and colorful markets spread along its warm coastline. [[Seopon]] is especially famous for luxury goods, rare imports, jewelry, pearls, fine fabrics, exotic foods, and unusual treasures arriving from across the archipelago.
-
-Wealth is displayed proudly here, sometimes with astonishing enthusiasm. Merchants deal in platinum and pearls as readily as common coin, while noble families and successful traders occupy lavish homes overlooking the sea. Beneath the polish, however, [[Seopon]] remains unmistakably Ilayran: loud markets, warm nights, music in the streets, packed docks, and sailors bringing strange stories from islands most residents have never visited.
+{{Short 1–2 paragraph description of the city. Keep this player-facing and focused on the atmosphere, appearance, culture, and what the city is known for.}}
 
 ---
 
@@ -28,7 +26,7 @@ Wealth is displayed proudly here, sometimes with astonishing enthusiasm. Merchan
 
 <details> <summary><strong>🏛️ Landmarks & Places of Interest</strong></summary>
 
-- [[The Royal Plaza]]
+- [[{{Landmark Name}}]]
     
 - [[{{Landmark Name}}]]
     
@@ -43,16 +41,16 @@ Wealth is displayed proudly here, sometimes with astonishing enthusiasm. Merchan
     
 - [[{{Organization Name}}]]
     
-- [[The Crown of Astra Veyra]]
+- [[{{Faction Name}}]]
     
 
 </details>
 
 <details> <summary><strong>👥 Notable People</strong></summary>
 
-- [[King Elon]]
+- [[{{NPC Name}}]]
     
-- [[Princess Seleni]]
+- [[{{NPC Name}}]]
     
 - [[{{NPC Name}}]]
     

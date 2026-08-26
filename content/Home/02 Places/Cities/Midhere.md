@@ -1,6 +1,6 @@
-On the great island of **[[Seo]]** stands **[[Seopon]]**, the wealthy capital of [[Ilayra]] and one of the most extravagant cities in [[The Sundered Isles]]. Marble villas, tiled courtyards, shaded promenades, tropical gardens, elaborate fountains, and colorful markets spread along its warm coastline. [[Seopon]] is especially famous for luxury goods, rare imports, jewelry, pearls, fine fabrics, exotic foods, and unusual treasures arriving from across the archipelago.
+Situated on **[[Midhere Isle]]** just off the northern coast of [[Kharos]], **[[Midhere]]** serves as an important connection between Kharos and [[Iornveil]]. The island is connected to the mainland by the narrow **[[Midhere Landbridge]]**, while ships regularly travel north through the surrounding waters toward dwarven ports.
 
-Wealth is displayed proudly here, sometimes with astonishing enthusiasm. Merchants deal in platinum and pearls as readily as common coin, while noble families and successful traders occupy lavish homes overlooking the sea. Beneath the polish, however, [[Seopon]] remains unmistakably Ilayran: loud markets, warm nights, music in the streets, packed docks, and sailors bringing strange stories from islands most residents have never visited.
+Midhere has grown wealthy by controlling this unusual crossroads between desert and mountain cultures. Dwarven goods, Kharosi textiles, minerals, food, weapons, and travelers pass constantly through its streets, giving the city a mixed character unlike anywhere else on the continent. Crossing the narrow landbridge during heavy winds is considered both unpleasant and an excellent opportunity to reconsider one’s life choices.
 
 ---
 
@@ -28,7 +28,7 @@ Wealth is displayed proudly here, sometimes with astonishing enthusiasm. Merchan
 
 <details> <summary><strong>🏛️ Landmarks & Places of Interest</strong></summary>
 
-- [[The Royal Plaza]]
+- [[{{Landmark Name}}]]
     
 - [[{{Landmark Name}}]]
     
@@ -43,16 +43,16 @@ Wealth is displayed proudly here, sometimes with astonishing enthusiasm. Merchan
     
 - [[{{Organization Name}}]]
     
-- [[The Crown of Astra Veyra]]
+- [[{{Faction Name}}]]
     
 
 </details>
 
 <details> <summary><strong>👥 Notable People</strong></summary>
 
-- [[King Elon]]
+- [[{{NPC Name}}]]
     
-- [[Princess Seleni]]
+- [[{{NPC Name}}]]
     
 - [[{{NPC Name}}]]
     

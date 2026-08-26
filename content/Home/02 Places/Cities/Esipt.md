@@ -1,6 +1,6 @@
-On the great island of **[[Seo]]** stands **[[Seopon]]**, the wealthy capital of [[Ilayra]] and one of the most extravagant cities in [[The Sundered Isles]]. Marble villas, tiled courtyards, shaded promenades, tropical gardens, elaborate fountains, and colorful markets spread along its warm coastline. [[Seopon]] is especially famous for luxury goods, rare imports, jewelry, pearls, fine fabrics, exotic foods, and unusual treasures arriving from across the archipelago.
+Half-buried beneath drifting sand stands **[[Esipt]]**, a medium-sized city that has learned not merely to survive the desert, but to live comfortably within it. Flat-roofed stone buildings, shaded alleys, underground cisterns, wind towers, and cloth-covered markets protect residents from the brutal sun while still allowing the city to bustle with trade, music, food, and daily life.
 
-Wealth is displayed proudly here, sometimes with astonishing enthusiasm. Merchants deal in platinum and pearls as readily as common coin, while noble families and successful traders occupy lavish homes overlooking the sea. Beneath the polish, however, [[Seopon]] remains unmistakably Ilayran: loud markets, warm nights, music in the streets, packed docks, and sailors bringing strange stories from islands most residents have never visited.
+Sand gets everywhere in Esipt, and nobody has bothered pretending otherwise. Doorways are built with raised thresholds, windows are narrow and protected, and residents wear layered clothing designed for both heat and dust. Visitors often arrive expecting a miserable outpost and instead find a lively city where people have spent generations learning how to make an unforgiving landscape feel like home.
 
 ---
 
@@ -28,7 +28,7 @@ Wealth is displayed proudly here, sometimes with astonishing enthusiasm. Merchan
 
 <details> <summary><strong>🏛️ Landmarks & Places of Interest</strong></summary>
 
-- [[The Royal Plaza]]
+- [[{{Landmark Name}}]]
     
 - [[{{Landmark Name}}]]
     
@@ -43,16 +43,16 @@ Wealth is displayed proudly here, sometimes with astonishing enthusiasm. Merchan
     
 - [[{{Organization Name}}]]
     
-- [[The Crown of Astra Veyra]]
+- [[{{Faction Name}}]]
     
 
 </details>
 
 <details> <summary><strong>👥 Notable People</strong></summary>
 
-- [[King Elon]]
+- [[{{NPC Name}}]]
     
-- [[Princess Seleni]]
+- [[{{NPC Name}}]]
     
 - [[{{NPC Name}}]]
     
