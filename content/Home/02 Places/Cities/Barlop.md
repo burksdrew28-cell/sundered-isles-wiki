@@ -50,7 +50,7 @@ Just south of the enormous **[[Refu Forest]]**, [[Barlop]] is one of northern [[
 
 <details> <summary><strong>👥 Notable People</strong></summary>
 
-- [[{{NPC Name}}]]
+- [[Chungus]]
     
 - [[{{NPC Name}}]]
     

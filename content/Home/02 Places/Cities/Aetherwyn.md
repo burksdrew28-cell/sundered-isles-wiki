@@ -50,7 +50,7 @@ The elves of [[Aetherwyn]] live a famously relaxed life centered around music, c
 
 <details> <summary><strong>👥 Notable People</strong></summary>
 
-- [[{{NPC Name}}]]
+- [[Gypsy]]
     
 - [[{{NPC Name}}]]
     
