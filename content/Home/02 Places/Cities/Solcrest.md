@@ -6,12 +6,21 @@ Wealth is displayed proudly here, sometimes with astonishing enthusiasm. Merchan
 
 <details> <summary><strong>🛍️ Shops & Merchants</strong></summary>
 
-- [[{{Shop Name}}]]
-    
-- [[{{Shop Name}}]]
-    
-- [[{{Shop Name}}]]
-    
+- [[Brightforge Adventuring Supplies]] 
+	
+- [[The Verdant Elixirarium]] 
+	
+- [[Quill & Codex]]
+	
+- [[Elidia & Garin's Silks and Skins]] 
+	
+- [[The Gilded Crescent]] 
+	
+- [[Solcrest Stables & Outfitters]]
+	
+- [[Wendal's Implements]] 
+	
+- [[Iornhand's Anvil]]
 
 </details>
 
