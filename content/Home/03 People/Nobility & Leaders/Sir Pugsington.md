@@ -51,8 +51,6 @@ Known for his courage, courtesy, and willingness to help those he believes deser
 
 - [[Solcrest]]
     
-- [[Solcrest City Gates]]
-    
 - [[Solcrest Royal Castle]]
     
 

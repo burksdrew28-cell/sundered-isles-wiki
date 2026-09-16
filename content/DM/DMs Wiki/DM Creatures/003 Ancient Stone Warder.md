@@ -1,0 +1,1 @@
+![[Ancient Stone Warder.png]]
