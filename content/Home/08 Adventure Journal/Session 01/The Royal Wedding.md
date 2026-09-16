@@ -79,7 +79,7 @@
   - Epic Moment: +100 XP
   - Nat 20 Rolls: +0 XP
 
-- **[[Gypsy]]:** +2,170 XP
+- **[[Gypsy]]:** +1,870 XP
   - Base XP: +500 XP
   - Heroics: +340 XP
   - Combat: +220 XP
@@ -87,7 +87,7 @@
   - Roleplay: +100 XP
   - Exploration & Investigation: +80 XP
   - Problem Solving & Creativity: +120 XP
-  - Super Epic Moment: +500 XP
+  - Epic Lizard Combat: +200 XP
   - Nat 20 Rolls: +200 XP
 
 - **[[Rowan]]:** +1,795 XP
