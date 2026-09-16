@@ -41,7 +41,7 @@
     
 - [[Heath Ruins]]
     
-- [[Nasca Ruins]]
+- [[Stormhold Ruins]]
     
 - [[The Wandering Spine]]
     

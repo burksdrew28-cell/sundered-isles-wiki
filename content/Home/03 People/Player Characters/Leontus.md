@@ -1,24 +1,28 @@
-_[[Human]] • **Fighter**_
+*Human* • **Fighter**
 
-(Fill After Session 1)
-
-{{A short 2–4 sentence description of the character. Mention their appearance, general personality, reputation, or anything the other party members would reasonably know about them.}}
+Leontus is the last surviving son of [[House Stormwind]], a fallen noble family whose home of Stormhold was destroyed by the orc clans of [[Gronkar]]. Tall, armored, and unmistakably accustomed to the traditions of nobility, he carries himself with a strong belief in loyalty, hierarchy, and order. Though his house may have fallen, Leontus still bears its name and legacy wherever he travels.
 
 ---
 
 ### 🧭 Basic Information
 
-- **Homeland:** [[{{City / Region / Continent}}]]
-    
-- **Ideals:** 
-    
-- **Affiliation:** {{Faction / Organization / None}}
-    
+- **Homeland:** [[Stormhold Ruins]], [[Kharos]]
+- **Age:** 30
+- **Ideals:** Hierarchy, loyalty, and order.
+- **Affiliation:** House Stormwind
 
 ### 👤 Appearance
 
-{{A brief description of their appearance, clothing, equipment, or recognizable features.}}
+Leontus is a 6-foot-tall human with dark brown hair, green eyes, and surprisingly pale skin from the many years he has spent beneath heavy armor.
+
+His equipment and bearing reflect his noble upbringing and martial training, giving him the appearance of someone equally accustomed to the battlefield and the expectations that come with carrying an old family name.
+
+He is rarely far from **Gallant**, his black warhorse and oldest companion.
 
 ### 🌎 Background
 
-{{A short, publicly known description of where they came from and what brought them into the adventuring life. Keep secret backstory information out of this section.}}
+Leontus was born into **[[House Stormwind]]**, the son of a distant noble and a witch. His family eventually fled [[Solcrest]] and established a life in [[Kharos]], where their home became known as **Stormhold**.
+
+That life came to a violent end when Stormhold was attacked and completely destroyed by the orc clans of **Gronkar**. Of House Stormwind and those who lived within Stormhold, Leontus was the only known survivor.
+
+Now the last remaining son of his house, Leontus carries the Stormwind name into a world where the family, home, and order he once knew no longer exist.
