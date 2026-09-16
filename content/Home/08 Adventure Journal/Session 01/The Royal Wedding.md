@@ -77,7 +77,7 @@
   - Exploration & Investigation: +150 XP
   - Problem Solving & Creativity: +95 XP
   - Epic Face Slap: +100 XP
-  - Nat 20 Rolls: +0 XP
+  - Nat 20 Rolls: +100 XP
 
 - **[[Gypsy]]:** +1,740 XP
   - Base XP: +500 XP
