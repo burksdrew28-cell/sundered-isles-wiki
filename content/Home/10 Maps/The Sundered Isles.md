@@ -14,4 +14,5 @@
 
 > **Regional Rule:** The mechanics remain the same, but available transportation changes by continent. A Swift journey through Ilarya may look completely different from one through the Iron Hills.
 
+
 ![[TravelwoCraters.png]]
