@@ -13,6 +13,12 @@ title: The Sundered Isles
 
 <div class="wiki-navigation">
 
+<a href="./home/08-adventure-journal/">
+<span class="nav-icon">📖</span>
+<span class="nav-title">Adventure Journal</span>
+<span class="nav-description">Follow the campaign through its sessions and discoveries.</span>
+</a>
+
 <a href="./home/01-world/">
 <span class="nav-icon">🌎</span>
 <span class="nav-title">The World</span>
