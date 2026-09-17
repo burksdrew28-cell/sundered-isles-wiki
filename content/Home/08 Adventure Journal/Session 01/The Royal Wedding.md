@@ -8,8 +8,9 @@
 - Arrived in [[Solcrest]] and met [[Sir Pugsington]].
 - During the royal wedding the ground opened into an ancient vault.
 - Explored and found ancient mechanisms powered by crystals.
+- Found giant rat that turned into [[Mystery Woman]]
 - Found what seemed to be the source of the earthquakes. 
-- Witnessed the giant crystal fly into the sky and explode.
+- Witnessed the [[Aether Crystal]] fly into the sky and explode.
 
 ## 👥 People Met
 
@@ -29,7 +30,7 @@
 
 ## 🎒 Notable Finds
 
-- Amulet of Shattered Echoes
+- Amulet of Shattered Reflections
     
 - Shatter shard Axe
     
