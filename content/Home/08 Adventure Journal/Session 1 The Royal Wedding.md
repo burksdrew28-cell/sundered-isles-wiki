@@ -5,12 +5,15 @@
 
 ## 📝 What Happened
 
-- Arrived in [[Solcrest]] and met [[Sir Pugsington]].
-- During the royal wedding the ground opened into an ancient vault.
-- Explored and found ancient mechanisms powered by crystals.
-- Found giant rat that turned into [[Mystery Woman]]
-- Found what seemed to be the source of the earthquakes. 
-- Witnessed the [[Aether Crystal]] fly into the sky and explode.
+- The party arrived in Solcrest for Princess Seleni's wedding.
+- Captain Charlie took their attempted bribe but refused them entry.
+- Sir Pugsington helped the party enter the city.
+- During the wedding, an earthquake opened a massive sinkhole beneath the Royal Plaza.
+- The party fell into an underground vault and encountered a giant rat that transformed into a mysterious hooded woman.
+- They recovered an enormous crystal and escaped the vault.
+- The crystal rose into the sky and shattered, scattering fragments across the Sundered Isles.
+- A mysterious entity with enormous glowing purple eyes appeared in a collective vision and thanked the party.
+- King Elon disappeared during the disaster.
 
 ## 👥 People Met
 
