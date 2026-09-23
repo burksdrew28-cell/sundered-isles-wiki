@@ -1,1 +1,1 @@
-*[[Aether Crystal]]*![[AetherCrystal.png]]
+*[[The Ancient Crystal]]*![[AetherCrystal.png]]

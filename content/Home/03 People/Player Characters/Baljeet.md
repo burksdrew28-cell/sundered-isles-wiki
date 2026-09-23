@@ -1,6 +1,4 @@
-# Baljeet
-
-*Gnome • **Bard***
+*Gnome* • **Bard**
 
 Baljeet is an ancient gnome with an unsettling presence and very little interest in explaining where it comes from. Quiet about his past but fearless when confronted by danger, he carries himself like someone who has already survived things far worse than whatever happens to be standing in front of him. Whatever follows Baljeet, he seems determined that nobody else will become its victim.
 

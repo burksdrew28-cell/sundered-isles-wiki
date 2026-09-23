@@ -1,6 +1,6 @@
-**Date:** 6174 AS, two weeks after Shattering Day
+**Date:** 6174 AS, two weeks after the disaster
 
-**Main Location:** Solcrest, Astra Veyra & Stormhold Ruins
+**Main Location:** [[Solcrest]], [[Astra Veyra]] & [[Ganka Ruins]]
 
 ---
 
@@ -8,17 +8,17 @@
 
 Two weeks after the catastrophe in Solcrest, Sir Pugsington sent the party to investigate a nearby impact site and discover what happened to a missing Royal Guard patrol.
 
-Their investigation led them to Stormhold Ruins, where they discovered that the fallen crystal had transformed several soldiers into cultists. Deep within the ruins, they encountered the mysterious hooded Fey woman and a heavily mutated Captain Charlie guarding the crystal shard.
+Their investigation led them to [[Ganka Ruins]], where they discovered that the fallen crystal had transformed several soldiers into cultists. Deep within the ruins, they encountered the mysterious hooded woman and a heavily mutated Captain Charlie guarding a crystal shard.
 
 After recovering the shard, the party experienced another mysterious vision before returning to Solcrest, where an ancient archivist suggested that collecting the remaining fragments might restore balance to the Sundered Isles.
 
 ## 👥 People Met
 
-- **Sir Pugsington:** Sent the party to investigate the impact site and recover whatever fell from the sky.
-- **The Hooded Fey Woman:** A mysterious figure attempting to restore "balance" using the crystal's power.
-- **Captain Charlie:** A former Royal Guard captain who became severely mutated while protecting the crystal.
-- **The Solcrest Archivist:** An ancient construct who studies the crystal and believes the scattered fragments may need to be reunited.
-- **The Mysterious Entity:** A being with enormous glowing purple eyes that appeared in another collective vision, warning the party that what they believe to be true is false.
+- **[[Sir Pugsington]]:** Sent the party to investigate the impact site and recover whatever fell from the sky.
+- **[[Mystery Woman]]:** A mysterious figure attempting to restore "balance" using the crystal's power.
+- **[[Royal Guard Charlie]]:** A former Royal Guard captain who became severely mutated while protecting the crystal.
+- **[[Archelon]]:** An ancient construct who studies the crystal and believes the scattered fragments may need to be reunited.
+- **[[Purple-Eyed Entity]]:** A being with enormous glowing purple eyes that appeared in another collective vision, warning the party that what they believe to be true is false.
 
 ## 🗺️ Places Visited
 
@@ -38,7 +38,7 @@ After recovering the shard, the party experienced another mysterious vision befo
 
 - **The Scattered Crystals:** Other fragments have fallen throughout the Sundered Isles. Recovering them may help restore balance to the world.
 - **The Missing King:** Rumors suggest [[King Elon]] may have traveled to [[Tulin]].
-- **The Hooded Woman:** Her connection to the crystals and the ancient magical world remains mysterious.
+- **The Hooded Woman:** Her connection to the crystals remains mysterious.
 - **The Purple-Eyed Entity:** The mysterious being claims that the party has been deceived and urges them to trust it.
 - **The Journey to [[Tulin]]:** An important transportation hub where the party may discover information about the missing King and other impact sites.
 
