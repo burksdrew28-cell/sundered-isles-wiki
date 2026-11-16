@@ -5,7 +5,7 @@ Most of the Sundered Isles use the same common calendar.
 
 The current year is:
 
-> ## **6174 AS**
+ **6174 AS**
 
 **AS** means **After the Sundering**.
 

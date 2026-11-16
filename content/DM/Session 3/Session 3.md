@@ -376,34 +376,6 @@ The party can investigate.
 
 ---
 
-# 💰 SEARCHING THE BEACH
-
-Each character can make **one Investigation check**.
-
-### DC 10
-
-Find something amusing but mostly worthless.
-
-Old cutlery, strange bottles, broken weapons, foreign coins, etc.
-
-### DC 12
-
-Find **2d6 gp** worth of scattered coins or valuables.
-
-### DC 15
-
-Find a small unusual relic connected to another region of the Sundered Isles.
-
-Nothing extremely powerful.
-
-### DC 18+
-
-They uncover an object with faint traces of ancient Aether crystal embedded within it.
-
-Before they can investigate further...
-
----
-
 # 💜 SCENE 9 — THE BUZZ
 
 > The sand beneath your feet vibrates.
@@ -581,3 +553,7 @@ Do not immediately explain what compass they mean.
 # ⚔️ WAVE TWO — THE REAL ATTACK
 
 When Wave One has approximately **one or two enemies remaining**, the party
+
+![[Warg Stat Block_ Crystalline Mountain Hunter.png]]
+
+![[Orc Raider Weapon Options Poster.png]]

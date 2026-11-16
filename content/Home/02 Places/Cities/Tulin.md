@@ -3,54 +3,73 @@ On the far eastern coast of [[Astra Veyra]] sits **[[Tulin]]**, a bustling city 
 The city itself is constantly in motion. Half-finished vessels line the docks, experimental wagons rattle through testing yards, and strange mechanical contraptions occasionally appear on the streets before disappearing again after an unfortunate encounter with a wall. [[Tulin]]’s craftspeople are fiercely competitive, and arguments over designs, speed, durability, and whose creation is least likely to explode are considered perfectly ordinary conversation.
 
 ---
-## 🛍️ Shops & Merchants
 
-- [[The Wandering Wares]] — Exotic goods, travel supplies, and curiosities from across the Sundered Isles.
-    
-- [[Brass & Barrel Outfitters]] — Weapons, armor, adventuring equipment, and nautical supplies.
-    
+<details>
+<summary><strong>🛍️ Shops & Merchants</strong></summary>
 
-## 🍺 Taverns & Inns
+- [[The Wandering Wares]]
+- [[Brass & Barrel Outfitters]]
 
-- [[The Drunken Anchor]] — A bustling sailors' tavern notorious for gambling, questionable patrons, and tall tales.
-    
+</details>
 
-## 🏛️ Landmarks & Places of Interest
+<details>
+<summary><strong>🍺 Taverns & Inns</strong></summary>
 
-- [[The Thousand Roads Plaza]] — Tulin's famous crossroads, where travelers and merchants gather before departing across the Isles.
-    
-- [[The Grand Harbor]] — A sprawling port filled with merchant vessels, passenger ships, and captains offering passage to distant lands.
-    
+- [[The Drunken Anchor]]
 
-## ⚔️ Guilds & Organizations
+</details>
 
-- [[The Wayfarers Guild]] — An influential organization coordinating caravans, transportation, and trade routes throughout the Sundered Isles.
-    
+<details>
+<summary><strong>🏛️ Landmarks & Places of Interest</strong></summary>
 
-## 👥 Notable People
+- [[The Thousand Roads Plaza]]
+- [[The Grand Harbor]]
 
-_To be discovered._
+</details>
 
-## 🎭 Entertainment & Activities
+<details>
+<summary><strong>⚔️ Guilds & Organizations</strong></summary>
 
-- [[The Skybound Spectacle]] — An open-air amphitheater featuring traveling performers, daring acrobats, magical illusions, and exotic entertainers from across the Sundered Isles.
+- [[The Wayfarers Guild]]
 
-## ⛪ Temples & Sacred Places
+</details>
 
-- [[The Shrine of the Open Road]] — A small sanctuary where travelers leave offerings and seek blessings for safe journeys.
-    
+<details>
+<summary><strong>👥 Notable People</strong></summary>
 
-## 🏘️ Districts & Neighborhoods
+- [[Lenny]]
+- [[Captain Red Rus]]
 
-- [[Harbor District]] — A lively waterfront neighborhood filled with sailors, warehouses, taverns, and maritime trade.
-    
-- [[Crossroads District]] — Tulin's crowded residential and commercial heart, home to merchants, travelers, and locals.
-    
+</details>
 
-## 🗺️ Nearby Locations
+<details>
+<summary><strong>🎭 Entertainment & Activities</strong></summary>
+
+- [[The Skybound Spectacle]]
+
+</details>
+
+<details>
+<summary><strong>⛪ Temples & Sacred Places</strong></summary>
+
+- [[The Shrine of the Open Road]]
+
+</details>
+
+<details>
+<summary><strong>🏘️ Districts & Neighborhoods</strong></summary>
+
+- [[Harbor District]]
+- [[Crossroads District]]
+
+</details>
+
+<details>
+<summary><strong>🗺️ Nearby Locations</strong></summary>
 
 - [[Fort Hala Bu]]
-    
 - [[Blackwater]]
-    
 - [[Crestfall]]
+- [[Dead Man's Cove]]
+
+</details>
