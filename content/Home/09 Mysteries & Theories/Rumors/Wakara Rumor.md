@@ -1,1 +1,0 @@
-Whispers among sailors tell of an ancient beast that has recently awakened beneath the mysterious island of [[Wakara]], after thousands of years of slumber. Legend claims the creature possesses the power to grant any single wish, no matter how impossible. But those who seek it are warned that no one knows what the beast demands in return.

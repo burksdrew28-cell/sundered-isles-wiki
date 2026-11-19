@@ -1,0 +1,1 @@
+An ancient legend tells of a mysterious beast that slumbers deep beneath the island of [[Wakara]], hidden from the world for thousands of years. It is said that those who find the creature may be granted a single wish, no matter how impossible. Yet every wish comes at a price, and no tale has ever revealed what the ancient beast demands in return.
